@@ -2,6 +2,8 @@
 text_files/
 pi_digits.txt
 programming.txt
+primes.json
+primes.pkl
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
