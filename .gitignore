@@ -4,6 +4,7 @@ pi_digits.txt
 programming.txt
 primes.json
 primes.pkl
+test_trapezoids.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
