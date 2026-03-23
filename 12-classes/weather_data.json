@@ -1,0 +1,5002 @@
+[
+  {
+    "time": 0.0,
+    "temperature_newyorkcity": -4.76,
+    "temperature_mexicocity": 5.0
+  },
+  {
+    "time": 259.2,
+    "temperature_newyorkcity": -4.78,
+    "temperature_mexicocity": 5.0
+  },
+  {
+    "time": 518.4,
+    "temperature_newyorkcity": -4.81,
+    "temperature_mexicocity": 5.01
+  },
+  {
+    "time": 777.5999999999999,
+    "temperature_newyorkcity": -4.84,
+    "temperature_mexicocity": 5.01
+  },
+  {
+    "time": 1036.8,
+    "temperature_newyorkcity": -4.86,
+    "temperature_mexicocity": 5.03
+  },
+  {
+    "time": 1296.0,
+    "temperature_newyorkcity": -4.88,
+    "temperature_mexicocity": 5.04
+  },
+  {
+    "time": 1555.1999999999998,
+    "temperature_newyorkcity": -4.9,
+    "temperature_mexicocity": 5.06
+  },
+  {
+    "time": 1814.3999999999999,
+    "temperature_newyorkcity": -4.92,
+    "temperature_mexicocity": 5.08
+  },
+  {
+    "time": 2073.6,
+    "temperature_newyorkcity": -4.93,
+    "temperature_mexicocity": 5.1
+  },
+  {
+    "time": 2332.7999999999997,
+    "temperature_newyorkcity": -4.95,
+    "temperature_mexicocity": 5.13
+  },
+  {
+    "time": 2592.0,
+    "temperature_newyorkcity": -4.96,
+    "temperature_mexicocity": 5.16
+  },
+  {
+    "time": 2851.2,
+    "temperature_newyorkcity": -4.97,
+    "temperature_mexicocity": 5.19
+  },
+  {
+    "time": 3110.3999999999996,
+    "temperature_newyorkcity": -4.98,
+    "temperature_mexicocity": 5.23
+  },
+  {
+    "time": 3369.6,
+    "temperature_newyorkcity": -4.99,
+    "temperature_mexicocity": 5.27
+  },
+  {
+    "time": 3628.7999999999997,
+    "temperature_newyorkcity": -4.99,
+    "temperature_mexicocity": 5.31
+  },
+  {
+    "time": 3888.0,
+    "temperature_newyorkcity": -5.0,
+    "temperature_mexicocity": 5.36
+  },
+  {
+    "time": 4147.2,
+    "temperature_newyorkcity": -5.0,
+    "temperature_mexicocity": 5.41
+  },
+  {
+    "time": 4406.4,
+    "temperature_newyorkcity": -5.0,
+    "temperature_mexicocity": 5.46
+  },
+  {
+    "time": 4665.599999999999,
+    "temperature_newyorkcity": -5.0,
+    "temperature_mexicocity": 5.51
+  },
+  {
+    "time": 4924.8,
+    "temperature_newyorkcity": -5.0,
+    "temperature_mexicocity": 5.57
+  },
+  {
+    "time": 5184.0,
+    "temperature_newyorkcity": -4.99,
+    "temperature_mexicocity": 5.63
+  },
+  {
+    "time": 5443.2,
+    "temperature_newyorkcity": -4.98,
+    "temperature_mexicocity": 5.7
+  },
+  {
+    "time": 5702.4,
+    "temperature_newyorkcity": -4.97,
+    "temperature_mexicocity": 5.76
+  },
+  {
+    "time": 5961.599999999999,
+    "temperature_newyorkcity": -4.96,
+    "temperature_mexicocity": 5.83
+  },
+  {
+    "time": 6220.799999999999,
+    "temperature_newyorkcity": -4.95,
+    "temperature_mexicocity": 5.91
+  },
+  {
+    "time": 6480.0,
+    "temperature_newyorkcity": -4.94,
+    "temperature_mexicocity": 5.98
+  },
+  {
+    "time": 6739.2,
+    "temperature_newyorkcity": -4.92,
+    "temperature_mexicocity": 6.06
+  },
+  {
+    "time": 6998.4,
+    "temperature_newyorkcity": -4.91,
+    "temperature_mexicocity": 6.14
+  },
+  {
+    "time": 7257.599999999999,
+    "temperature_newyorkcity": -4.89,
+    "temperature_mexicocity": 6.22
+  },
+  {
+    "time": 7516.799999999999,
+    "temperature_newyorkcity": -4.87,
+    "temperature_mexicocity": 6.31
+  },
+  {
+    "time": 7776.0,
+    "temperature_newyorkcity": -4.84,
+    "temperature_mexicocity": 6.4
+  },
+  {
+    "time": 8035.2,
+    "temperature_newyorkcity": -4.82,
+    "temperature_mexicocity": 6.49
+  },
+  {
+    "time": 8294.4,
+    "temperature_newyorkcity": -4.79,
+    "temperature_mexicocity": 6.59
+  },
+  {
+    "time": 8553.6,
+    "temperature_newyorkcity": -4.76,
+    "temperature_mexicocity": 6.69
+  },
+  {
+    "time": 8812.8,
+    "temperature_newyorkcity": -4.74,
+    "temperature_mexicocity": 6.79
+  },
+  {
+    "time": 9072.0,
+    "temperature_newyorkcity": -4.7,
+    "temperature_mexicocity": 6.89
+  },
+  {
+    "time": 9331.199999999999,
+    "temperature_newyorkcity": -4.67,
+    "temperature_mexicocity": 6.99
+  },
+  {
+    "time": 9590.4,
+    "temperature_newyorkcity": -4.64,
+    "temperature_mexicocity": 7.1
+  },
+  {
+    "time": 9849.6,
+    "temperature_newyorkcity": -4.6,
+    "temperature_mexicocity": 7.21
+  },
+  {
+    "time": 10108.8,
+    "temperature_newyorkcity": -4.56,
+    "temperature_mexicocity": 7.32
+  },
+  {
+    "time": 10368.0,
+    "temperature_newyorkcity": -4.52,
+    "temperature_mexicocity": 7.44
+  },
+  {
+    "time": 10627.199999999999,
+    "temperature_newyorkcity": -4.48,
+    "temperature_mexicocity": 7.56
+  },
+  {
+    "time": 10886.4,
+    "temperature_newyorkcity": -4.44,
+    "temperature_mexicocity": 7.68
+  },
+  {
+    "time": 11145.6,
+    "temperature_newyorkcity": -4.4,
+    "temperature_mexicocity": 7.8
+  },
+  {
+    "time": 11404.8,
+    "temperature_newyorkcity": -4.35,
+    "temperature_mexicocity": 7.92
+  },
+  {
+    "time": 11664.0,
+    "temperature_newyorkcity": -4.3,
+    "temperature_mexicocity": 8.05
+  },
+  {
+    "time": 11923.199999999999,
+    "temperature_newyorkcity": -4.25,
+    "temperature_mexicocity": 8.18
+  },
+  {
+    "time": 12182.4,
+    "temperature_newyorkcity": -4.2,
+    "temperature_mexicocity": 8.31
+  },
+  {
+    "time": 12441.599999999999,
+    "temperature_newyorkcity": -4.15,
+    "temperature_mexicocity": 8.44
+  },
+  {
+    "time": 12700.8,
+    "temperature_newyorkcity": -4.1,
+    "temperature_mexicocity": 8.57
+  },
+  {
+    "time": 12960.0,
+    "temperature_newyorkcity": -4.05,
+    "temperature_mexicocity": 8.71
+  },
+  {
+    "time": 13219.199999999999,
+    "temperature_newyorkcity": -3.99,
+    "temperature_mexicocity": 8.85
+  },
+  {
+    "time": 13478.4,
+    "temperature_newyorkcity": -3.93,
+    "temperature_mexicocity": 8.99
+  },
+  {
+    "time": 13737.599999999999,
+    "temperature_newyorkcity": -3.87,
+    "temperature_mexicocity": 9.13
+  },
+  {
+    "time": 13996.8,
+    "temperature_newyorkcity": -3.81,
+    "temperature_mexicocity": 9.27
+  },
+  {
+    "time": 14256.0,
+    "temperature_newyorkcity": -3.75,
+    "temperature_mexicocity": 9.42
+  },
+  {
+    "time": 14515.199999999999,
+    "temperature_newyorkcity": -3.69,
+    "temperature_mexicocity": 9.57
+  },
+  {
+    "time": 14774.4,
+    "temperature_newyorkcity": -3.62,
+    "temperature_mexicocity": 9.71
+  },
+  {
+    "time": 15033.599999999999,
+    "temperature_newyorkcity": -3.56,
+    "temperature_mexicocity": 9.86
+  },
+  {
+    "time": 15292.8,
+    "temperature_newyorkcity": -3.49,
+    "temperature_mexicocity": 10.02
+  },
+  {
+    "time": 15552.0,
+    "temperature_newyorkcity": -3.42,
+    "temperature_mexicocity": 10.17
+  },
+  {
+    "time": 15811.199999999999,
+    "temperature_newyorkcity": -3.35,
+    "temperature_mexicocity": 10.32
+  },
+  {
+    "time": 16070.4,
+    "temperature_newyorkcity": -3.28,
+    "temperature_mexicocity": 10.48
+  },
+  {
+    "time": 16329.599999999999,
+    "temperature_newyorkcity": -3.21,
+    "temperature_mexicocity": 10.63
+  },
+  {
+    "time": 16588.8,
+    "temperature_newyorkcity": -3.14,
+    "temperature_mexicocity": 10.79
+  },
+  {
+    "time": 16848.0,
+    "temperature_newyorkcity": -3.06,
+    "temperature_mexicocity": 10.95
+  },
+  {
+    "time": 17107.2,
+    "temperature_newyorkcity": -2.99,
+    "temperature_mexicocity": 11.11
+  },
+  {
+    "time": 17366.399999999998,
+    "temperature_newyorkcity": -2.91,
+    "temperature_mexicocity": 11.27
+  },
+  {
+    "time": 17625.6,
+    "temperature_newyorkcity": -2.84,
+    "temperature_mexicocity": 11.43
+  },
+  {
+    "time": 17884.8,
+    "temperature_newyorkcity": -2.76,
+    "temperature_mexicocity": 11.6
+  },
+  {
+    "time": 18144.0,
+    "temperature_newyorkcity": -2.68,
+    "temperature_mexicocity": 11.76
+  },
+  {
+    "time": 18403.2,
+    "temperature_newyorkcity": -2.6,
+    "temperature_mexicocity": 11.93
+  },
+  {
+    "time": 18662.399999999998,
+    "temperature_newyorkcity": -2.52,
+    "temperature_mexicocity": 12.09
+  },
+  {
+    "time": 18921.6,
+    "temperature_newyorkcity": -2.44,
+    "temperature_mexicocity": 12.26
+  },
+  {
+    "time": 19180.8,
+    "temperature_newyorkcity": -2.35,
+    "temperature_mexicocity": 12.42
+  },
+  {
+    "time": 19440.0,
+    "temperature_newyorkcity": -2.27,
+    "temperature_mexicocity": 12.59
+  },
+  {
+    "time": 19699.2,
+    "temperature_newyorkcity": -2.19,
+    "temperature_mexicocity": 12.76
+  },
+  {
+    "time": 19958.399999999998,
+    "temperature_newyorkcity": -2.1,
+    "temperature_mexicocity": 12.93
+  },
+  {
+    "time": 20217.6,
+    "temperature_newyorkcity": -2.01,
+    "temperature_mexicocity": 13.1
+  },
+  {
+    "time": 20476.8,
+    "temperature_newyorkcity": -1.93,
+    "temperature_mexicocity": 13.27
+  },
+  {
+    "time": 20736.0,
+    "temperature_newyorkcity": -1.84,
+    "temperature_mexicocity": 13.43
+  },
+  {
+    "time": 20995.2,
+    "temperature_newyorkcity": -1.75,
+    "temperature_mexicocity": 13.6
+  },
+  {
+    "time": 21254.399999999998,
+    "temperature_newyorkcity": -1.66,
+    "temperature_mexicocity": 13.77
+  },
+  {
+    "time": 21513.6,
+    "temperature_newyorkcity": -1.57,
+    "temperature_mexicocity": 13.94
+  },
+  {
+    "time": 21772.8,
+    "temperature_newyorkcity": -1.49,
+    "temperature_mexicocity": 14.11
+  },
+  {
+    "time": 22032.0,
+    "temperature_newyorkcity": -1.39,
+    "temperature_mexicocity": 14.28
+  },
+  {
+    "time": 22291.2,
+    "temperature_newyorkcity": -1.3,
+    "temperature_mexicocity": 14.45
+  },
+  {
+    "time": 22550.399999999998,
+    "temperature_newyorkcity": -1.21,
+    "temperature_mexicocity": 14.62
+  },
+  {
+    "time": 22809.6,
+    "temperature_newyorkcity": -1.12,
+    "temperature_mexicocity": 14.79
+  },
+  {
+    "time": 23068.8,
+    "temperature_newyorkcity": -1.03,
+    "temperature_mexicocity": 14.96
+  },
+  {
+    "time": 23328.0,
+    "temperature_newyorkcity": -0.94,
+    "temperature_mexicocity": 15.13
+  },
+  {
+    "time": 23587.2,
+    "temperature_newyorkcity": -0.84,
+    "temperature_mexicocity": 15.3
+  },
+  {
+    "time": 23846.399999999998,
+    "temperature_newyorkcity": -0.75,
+    "temperature_mexicocity": 15.46
+  },
+  {
+    "time": 24105.6,
+    "temperature_newyorkcity": -0.66,
+    "temperature_mexicocity": 15.63
+  },
+  {
+    "time": 24364.8,
+    "temperature_newyorkcity": -0.56,
+    "temperature_mexicocity": 15.8
+  },
+  {
+    "time": 24624.0,
+    "temperature_newyorkcity": -0.47,
+    "temperature_mexicocity": 15.96
+  },
+  {
+    "time": 24883.199999999997,
+    "temperature_newyorkcity": -0.38,
+    "temperature_mexicocity": 16.13
+  },
+  {
+    "time": 25142.399999999998,
+    "temperature_newyorkcity": -0.28,
+    "temperature_mexicocity": 16.29
+  },
+  {
+    "time": 25401.6,
+    "temperature_newyorkcity": -0.19,
+    "temperature_mexicocity": 16.46
+  },
+  {
+    "time": 25660.8,
+    "temperature_newyorkcity": -0.09,
+    "temperature_mexicocity": 16.62
+  },
+  {
+    "time": 25920.0,
+    "temperature_newyorkcity": 0.0,
+    "temperature_mexicocity": 16.78
+  },
+  {
+    "time": 26179.199999999997,
+    "temperature_newyorkcity": 0.09,
+    "temperature_mexicocity": 16.94
+  },
+  {
+    "time": 26438.399999999998,
+    "temperature_newyorkcity": 0.19,
+    "temperature_mexicocity": 17.1
+  },
+  {
+    "time": 26697.6,
+    "temperature_newyorkcity": 0.28,
+    "temperature_mexicocity": 17.26
+  },
+  {
+    "time": 26956.8,
+    "temperature_newyorkcity": 0.38,
+    "temperature_mexicocity": 17.42
+  },
+  {
+    "time": 27216.0,
+    "temperature_newyorkcity": 0.47,
+    "temperature_mexicocity": 17.57
+  },
+  {
+    "time": 27475.199999999997,
+    "temperature_newyorkcity": 0.56,
+    "temperature_mexicocity": 17.73
+  },
+  {
+    "time": 27734.399999999998,
+    "temperature_newyorkcity": 0.66,
+    "temperature_mexicocity": 17.88
+  },
+  {
+    "time": 27993.6,
+    "temperature_newyorkcity": 0.75,
+    "temperature_mexicocity": 18.04
+  },
+  {
+    "time": 28252.8,
+    "temperature_newyorkcity": 0.84,
+    "temperature_mexicocity": 18.19
+  },
+  {
+    "time": 28512.0,
+    "temperature_newyorkcity": 0.94,
+    "temperature_mexicocity": 18.34
+  },
+  {
+    "time": 28771.199999999997,
+    "temperature_newyorkcity": 1.03,
+    "temperature_mexicocity": 18.48
+  },
+  {
+    "time": 29030.399999999998,
+    "temperature_newyorkcity": 1.12,
+    "temperature_mexicocity": 18.63
+  },
+  {
+    "time": 29289.6,
+    "temperature_newyorkcity": 1.21,
+    "temperature_mexicocity": 18.77
+  },
+  {
+    "time": 29548.8,
+    "temperature_newyorkcity": 1.3,
+    "temperature_mexicocity": 18.92
+  },
+  {
+    "time": 29808.0,
+    "temperature_newyorkcity": 1.39,
+    "temperature_mexicocity": 19.06
+  },
+  {
+    "time": 30067.199999999997,
+    "temperature_newyorkcity": 1.49,
+    "temperature_mexicocity": 19.2
+  },
+  {
+    "time": 30326.399999999998,
+    "temperature_newyorkcity": 1.57,
+    "temperature_mexicocity": 19.34
+  },
+  {
+    "time": 30585.6,
+    "temperature_newyorkcity": 1.66,
+    "temperature_mexicocity": 19.47
+  },
+  {
+    "time": 30844.8,
+    "temperature_newyorkcity": 1.75,
+    "temperature_mexicocity": 19.61
+  },
+  {
+    "time": 31104.0,
+    "temperature_newyorkcity": 1.84,
+    "temperature_mexicocity": 19.74
+  },
+  {
+    "time": 31363.199999999997,
+    "temperature_newyorkcity": 1.93,
+    "temperature_mexicocity": 19.87
+  },
+  {
+    "time": 31622.399999999998,
+    "temperature_newyorkcity": 2.01,
+    "temperature_mexicocity": 19.99
+  },
+  {
+    "time": 31881.6,
+    "temperature_newyorkcity": 2.1,
+    "temperature_mexicocity": 20.12
+  },
+  {
+    "time": 32140.8,
+    "temperature_newyorkcity": 2.19,
+    "temperature_mexicocity": 20.24
+  },
+  {
+    "time": 32400.0,
+    "temperature_newyorkcity": 2.27,
+    "temperature_mexicocity": 20.36
+  },
+  {
+    "time": 32659.199999999997,
+    "temperature_newyorkcity": 2.35,
+    "temperature_mexicocity": 20.48
+  },
+  {
+    "time": 32918.4,
+    "temperature_newyorkcity": 2.44,
+    "temperature_mexicocity": 20.6
+  },
+  {
+    "time": 33177.6,
+    "temperature_newyorkcity": 2.52,
+    "temperature_mexicocity": 20.71
+  },
+  {
+    "time": 33436.799999999996,
+    "temperature_newyorkcity": 2.6,
+    "temperature_mexicocity": 20.83
+  },
+  {
+    "time": 33696.0,
+    "temperature_newyorkcity": 2.68,
+    "temperature_mexicocity": 20.93
+  },
+  {
+    "time": 33955.2,
+    "temperature_newyorkcity": 2.76,
+    "temperature_mexicocity": 21.04
+  },
+  {
+    "time": 34214.4,
+    "temperature_newyorkcity": 2.84,
+    "temperature_mexicocity": 21.15
+  },
+  {
+    "time": 34473.6,
+    "temperature_newyorkcity": 2.91,
+    "temperature_mexicocity": 21.25
+  },
+  {
+    "time": 34732.799999999996,
+    "temperature_newyorkcity": 2.99,
+    "temperature_mexicocity": 21.35
+  },
+  {
+    "time": 34992.0,
+    "temperature_newyorkcity": 3.06,
+    "temperature_mexicocity": 21.44
+  },
+  {
+    "time": 35251.2,
+    "temperature_newyorkcity": 3.14,
+    "temperature_mexicocity": 21.54
+  },
+  {
+    "time": 35510.4,
+    "temperature_newyorkcity": 3.21,
+    "temperature_mexicocity": 21.63
+  },
+  {
+    "time": 35769.6,
+    "temperature_newyorkcity": 3.28,
+    "temperature_mexicocity": 21.72
+  },
+  {
+    "time": 36028.799999999996,
+    "temperature_newyorkcity": 3.35,
+    "temperature_mexicocity": 21.8
+  },
+  {
+    "time": 36288.0,
+    "temperature_newyorkcity": 3.42,
+    "temperature_mexicocity": 21.89
+  },
+  {
+    "time": 36547.2,
+    "temperature_newyorkcity": 3.49,
+    "temperature_mexicocity": 21.97
+  },
+  {
+    "time": 36806.4,
+    "temperature_newyorkcity": 3.56,
+    "temperature_mexicocity": 22.04
+  },
+  {
+    "time": 37065.6,
+    "temperature_newyorkcity": 3.62,
+    "temperature_mexicocity": 22.12
+  },
+  {
+    "time": 37324.799999999996,
+    "temperature_newyorkcity": 3.69,
+    "temperature_mexicocity": 22.19
+  },
+  {
+    "time": 37584.0,
+    "temperature_newyorkcity": 3.75,
+    "temperature_mexicocity": 22.26
+  },
+  {
+    "time": 37843.2,
+    "temperature_newyorkcity": 3.81,
+    "temperature_mexicocity": 22.33
+  },
+  {
+    "time": 38102.4,
+    "temperature_newyorkcity": 3.87,
+    "temperature_mexicocity": 22.39
+  },
+  {
+    "time": 38361.6,
+    "temperature_newyorkcity": 3.93,
+    "temperature_mexicocity": 22.45
+  },
+  {
+    "time": 38620.799999999996,
+    "temperature_newyorkcity": 3.99,
+    "temperature_mexicocity": 22.51
+  },
+  {
+    "time": 38880.0,
+    "temperature_newyorkcity": 4.05,
+    "temperature_mexicocity": 22.56
+  },
+  {
+    "time": 39139.2,
+    "temperature_newyorkcity": 4.1,
+    "temperature_mexicocity": 22.61
+  },
+  {
+    "time": 39398.4,
+    "temperature_newyorkcity": 4.15,
+    "temperature_mexicocity": 22.66
+  },
+  {
+    "time": 39657.6,
+    "temperature_newyorkcity": 4.2,
+    "temperature_mexicocity": 22.7
+  },
+  {
+    "time": 39916.799999999996,
+    "temperature_newyorkcity": 4.25,
+    "temperature_mexicocity": 22.74
+  },
+  {
+    "time": 40176.0,
+    "temperature_newyorkcity": 4.3,
+    "temperature_mexicocity": 22.78
+  },
+  {
+    "time": 40435.2,
+    "temperature_newyorkcity": 4.35,
+    "temperature_mexicocity": 22.82
+  },
+  {
+    "time": 40694.4,
+    "temperature_newyorkcity": 4.4,
+    "temperature_mexicocity": 22.85
+  },
+  {
+    "time": 40953.6,
+    "temperature_newyorkcity": 4.44,
+    "temperature_mexicocity": 22.88
+  },
+  {
+    "time": 41212.799999999996,
+    "temperature_newyorkcity": 4.48,
+    "temperature_mexicocity": 22.91
+  },
+  {
+    "time": 41472.0,
+    "temperature_newyorkcity": 4.52,
+    "temperature_mexicocity": 22.93
+  },
+  {
+    "time": 41731.2,
+    "temperature_newyorkcity": 4.56,
+    "temperature_mexicocity": 22.95
+  },
+  {
+    "time": 41990.4,
+    "temperature_newyorkcity": 4.6,
+    "temperature_mexicocity": 22.97
+  },
+  {
+    "time": 42249.6,
+    "temperature_newyorkcity": 4.64,
+    "temperature_mexicocity": 22.98
+  },
+  {
+    "time": 42508.799999999996,
+    "temperature_newyorkcity": 4.67,
+    "temperature_mexicocity": 22.99
+  },
+  {
+    "time": 42768.0,
+    "temperature_newyorkcity": 4.7,
+    "temperature_mexicocity": 23.0
+  },
+  {
+    "time": 43027.2,
+    "temperature_newyorkcity": 4.74,
+    "temperature_mexicocity": 23.0
+  },
+  {
+    "time": 43286.4,
+    "temperature_newyorkcity": 4.76,
+    "temperature_mexicocity": 23.0
+  },
+  {
+    "time": 43545.6,
+    "temperature_newyorkcity": 4.79,
+    "temperature_mexicocity": 23.0
+  },
+  {
+    "time": 43804.799999999996,
+    "temperature_newyorkcity": 4.82,
+    "temperature_mexicocity": 22.99
+  },
+  {
+    "time": 44064.0,
+    "temperature_newyorkcity": 4.84,
+    "temperature_mexicocity": 22.98
+  },
+  {
+    "time": 44323.2,
+    "temperature_newyorkcity": 4.87,
+    "temperature_mexicocity": 22.97
+  },
+  {
+    "time": 44582.4,
+    "temperature_newyorkcity": 4.89,
+    "temperature_mexicocity": 22.95
+  },
+  {
+    "time": 44841.6,
+    "temperature_newyorkcity": 4.91,
+    "temperature_mexicocity": 22.94
+  },
+  {
+    "time": 45100.799999999996,
+    "temperature_newyorkcity": 4.92,
+    "temperature_mexicocity": 22.91
+  },
+  {
+    "time": 45360.0,
+    "temperature_newyorkcity": 4.94,
+    "temperature_mexicocity": 22.89
+  },
+  {
+    "time": 45619.2,
+    "temperature_newyorkcity": 4.95,
+    "temperature_mexicocity": 22.86
+  },
+  {
+    "time": 45878.4,
+    "temperature_newyorkcity": 4.96,
+    "temperature_mexicocity": 22.83
+  },
+  {
+    "time": 46137.6,
+    "temperature_newyorkcity": 4.97,
+    "temperature_mexicocity": 22.8
+  },
+  {
+    "time": 46396.799999999996,
+    "temperature_newyorkcity": 4.98,
+    "temperature_mexicocity": 22.76
+  },
+  {
+    "time": 46656.0,
+    "temperature_newyorkcity": 4.99,
+    "temperature_mexicocity": 22.72
+  },
+  {
+    "time": 46915.2,
+    "temperature_newyorkcity": 5.0,
+    "temperature_mexicocity": 22.67
+  },
+  {
+    "time": 47174.4,
+    "temperature_newyorkcity": 5.0,
+    "temperature_mexicocity": 22.63
+  },
+  {
+    "time": 47433.6,
+    "temperature_newyorkcity": 5.0,
+    "temperature_mexicocity": 22.58
+  },
+  {
+    "time": 47692.799999999996,
+    "temperature_newyorkcity": 5.0,
+    "temperature_mexicocity": 22.52
+  },
+  {
+    "time": 47952.0,
+    "temperature_newyorkcity": 5.0,
+    "temperature_mexicocity": 22.47
+  },
+  {
+    "time": 48211.2,
+    "temperature_newyorkcity": 4.99,
+    "temperature_mexicocity": 22.41
+  },
+  {
+    "time": 48470.4,
+    "temperature_newyorkcity": 4.99,
+    "temperature_mexicocity": 22.35
+  },
+  {
+    "time": 48729.6,
+    "temperature_newyorkcity": 4.98,
+    "temperature_mexicocity": 22.28
+  },
+  {
+    "time": 48988.799999999996,
+    "temperature_newyorkcity": 4.97,
+    "temperature_mexicocity": 22.21
+  },
+  {
+    "time": 49248.0,
+    "temperature_newyorkcity": 4.96,
+    "temperature_mexicocity": 22.14
+  },
+  {
+    "time": 49507.2,
+    "temperature_newyorkcity": 4.95,
+    "temperature_mexicocity": 22.07
+  },
+  {
+    "time": 49766.399999999994,
+    "temperature_newyorkcity": 4.93,
+    "temperature_mexicocity": 21.99
+  },
+  {
+    "time": 50025.6,
+    "temperature_newyorkcity": 4.92,
+    "temperature_mexicocity": 21.91
+  },
+  {
+    "time": 50284.799999999996,
+    "temperature_newyorkcity": 4.9,
+    "temperature_mexicocity": 21.83
+  },
+  {
+    "time": 50544.0,
+    "temperature_newyorkcity": 4.88,
+    "temperature_mexicocity": 21.75
+  },
+  {
+    "time": 50803.2,
+    "temperature_newyorkcity": 4.86,
+    "temperature_mexicocity": 21.66
+  },
+  {
+    "time": 51062.399999999994,
+    "temperature_newyorkcity": 4.84,
+    "temperature_mexicocity": 21.57
+  },
+  {
+    "time": 51321.6,
+    "temperature_newyorkcity": 4.81,
+    "temperature_mexicocity": 21.48
+  },
+  {
+    "time": 51580.799999999996,
+    "temperature_newyorkcity": 4.78,
+    "temperature_mexicocity": 21.38
+  },
+  {
+    "time": 51840.0,
+    "temperature_newyorkcity": 4.76,
+    "temperature_mexicocity": 21.28
+  },
+  {
+    "time": 52099.2,
+    "temperature_newyorkcity": 4.73,
+    "temperature_mexicocity": 21.18
+  },
+  {
+    "time": 52358.399999999994,
+    "temperature_newyorkcity": 4.69,
+    "temperature_mexicocity": 21.08
+  },
+  {
+    "time": 52617.6,
+    "temperature_newyorkcity": 4.66,
+    "temperature_mexicocity": 20.97
+  },
+  {
+    "time": 52876.799999999996,
+    "temperature_newyorkcity": 4.63,
+    "temperature_mexicocity": 20.86
+  },
+  {
+    "time": 53136.0,
+    "temperature_newyorkcity": 4.59,
+    "temperature_mexicocity": 20.75
+  },
+  {
+    "time": 53395.2,
+    "temperature_newyorkcity": 4.55,
+    "temperature_mexicocity": 20.64
+  },
+  {
+    "time": 53654.399999999994,
+    "temperature_newyorkcity": 4.51,
+    "temperature_mexicocity": 20.52
+  },
+  {
+    "time": 53913.6,
+    "temperature_newyorkcity": 4.47,
+    "temperature_mexicocity": 20.4
+  },
+  {
+    "time": 54172.799999999996,
+    "temperature_newyorkcity": 4.43,
+    "temperature_mexicocity": 20.28
+  },
+  {
+    "time": 54432.0,
+    "temperature_newyorkcity": 4.38,
+    "temperature_mexicocity": 20.16
+  },
+  {
+    "time": 54691.2,
+    "temperature_newyorkcity": 4.34,
+    "temperature_mexicocity": 20.04
+  },
+  {
+    "time": 54950.399999999994,
+    "temperature_newyorkcity": 4.29,
+    "temperature_mexicocity": 19.91
+  },
+  {
+    "time": 55209.6,
+    "temperature_newyorkcity": 4.24,
+    "temperature_mexicocity": 19.78
+  },
+  {
+    "time": 55468.799999999996,
+    "temperature_newyorkcity": 4.19,
+    "temperature_mexicocity": 19.65
+  },
+  {
+    "time": 55728.0,
+    "temperature_newyorkcity": 4.14,
+    "temperature_mexicocity": 19.52
+  },
+  {
+    "time": 55987.2,
+    "temperature_newyorkcity": 4.08,
+    "temperature_mexicocity": 19.38
+  },
+  {
+    "time": 56246.399999999994,
+    "temperature_newyorkcity": 4.03,
+    "temperature_mexicocity": 19.24
+  },
+  {
+    "time": 56505.6,
+    "temperature_newyorkcity": 3.97,
+    "temperature_mexicocity": 19.11
+  },
+  {
+    "time": 56764.799999999996,
+    "temperature_newyorkcity": 3.91,
+    "temperature_mexicocity": 18.96
+  },
+  {
+    "time": 57024.0,
+    "temperature_newyorkcity": 3.85,
+    "temperature_mexicocity": 18.82
+  },
+  {
+    "time": 57283.2,
+    "temperature_newyorkcity": 3.79,
+    "temperature_mexicocity": 18.68
+  },
+  {
+    "time": 57542.399999999994,
+    "temperature_newyorkcity": 3.73,
+    "temperature_mexicocity": 18.53
+  },
+  {
+    "time": 57801.6,
+    "temperature_newyorkcity": 3.67,
+    "temperature_mexicocity": 18.39
+  },
+  {
+    "time": 58060.799999999996,
+    "temperature_newyorkcity": 3.6,
+    "temperature_mexicocity": 18.24
+  },
+  {
+    "time": 58320.0,
+    "temperature_newyorkcity": 3.54,
+    "temperature_mexicocity": 18.09
+  },
+  {
+    "time": 58579.2,
+    "temperature_newyorkcity": 3.47,
+    "temperature_mexicocity": 17.93
+  },
+  {
+    "time": 58838.399999999994,
+    "temperature_newyorkcity": 3.4,
+    "temperature_mexicocity": 17.78
+  },
+  {
+    "time": 59097.6,
+    "temperature_newyorkcity": 3.33,
+    "temperature_mexicocity": 17.63
+  },
+  {
+    "time": 59356.799999999996,
+    "temperature_newyorkcity": 3.26,
+    "temperature_mexicocity": 17.47
+  },
+  {
+    "time": 59616.0,
+    "temperature_newyorkcity": 3.19,
+    "temperature_mexicocity": 17.31
+  },
+  {
+    "time": 59875.2,
+    "temperature_newyorkcity": 3.11,
+    "temperature_mexicocity": 17.15
+  },
+  {
+    "time": 60134.399999999994,
+    "temperature_newyorkcity": 3.04,
+    "temperature_mexicocity": 17.0
+  },
+  {
+    "time": 60393.6,
+    "temperature_newyorkcity": 2.96,
+    "temperature_mexicocity": 16.83
+  },
+  {
+    "time": 60652.799999999996,
+    "temperature_newyorkcity": 2.89,
+    "temperature_mexicocity": 16.67
+  },
+  {
+    "time": 60912.0,
+    "temperature_newyorkcity": 2.81,
+    "temperature_mexicocity": 16.51
+  },
+  {
+    "time": 61171.2,
+    "temperature_newyorkcity": 2.73,
+    "temperature_mexicocity": 16.35
+  },
+  {
+    "time": 61430.399999999994,
+    "temperature_newyorkcity": 2.65,
+    "temperature_mexicocity": 16.18
+  },
+  {
+    "time": 61689.6,
+    "temperature_newyorkcity": 2.57,
+    "temperature_mexicocity": 16.02
+  },
+  {
+    "time": 61948.799999999996,
+    "temperature_newyorkcity": 2.49,
+    "temperature_mexicocity": 15.85
+  },
+  {
+    "time": 62208.0,
+    "temperature_newyorkcity": 2.41,
+    "temperature_mexicocity": 15.69
+  },
+  {
+    "time": 62467.2,
+    "temperature_newyorkcity": 2.33,
+    "temperature_mexicocity": 15.52
+  },
+  {
+    "time": 62726.399999999994,
+    "temperature_newyorkcity": 2.24,
+    "temperature_mexicocity": 15.35
+  },
+  {
+    "time": 62985.6,
+    "temperature_newyorkcity": 2.16,
+    "temperature_mexicocity": 15.18
+  },
+  {
+    "time": 63244.799999999996,
+    "temperature_newyorkcity": 2.07,
+    "temperature_mexicocity": 15.02
+  },
+  {
+    "time": 63504.0,
+    "temperature_newyorkcity": 1.99,
+    "temperature_mexicocity": 14.85
+  },
+  {
+    "time": 63763.2,
+    "temperature_newyorkcity": 1.9,
+    "temperature_mexicocity": 14.68
+  },
+  {
+    "time": 64022.399999999994,
+    "temperature_newyorkcity": 1.81,
+    "temperature_mexicocity": 14.51
+  },
+  {
+    "time": 64281.6,
+    "temperature_newyorkcity": 1.72,
+    "temperature_mexicocity": 14.34
+  },
+  {
+    "time": 64540.799999999996,
+    "temperature_newyorkcity": 1.63,
+    "temperature_mexicocity": 14.17
+  },
+  {
+    "time": 64800.0,
+    "temperature_newyorkcity": 1.55,
+    "temperature_mexicocity": 14.0
+  },
+  {
+    "time": 65059.2,
+    "temperature_newyorkcity": 1.46,
+    "temperature_mexicocity": 13.83
+  },
+  {
+    "time": 65318.399999999994,
+    "temperature_newyorkcity": 1.36,
+    "temperature_mexicocity": 13.66
+  },
+  {
+    "time": 65577.59999999999,
+    "temperature_newyorkcity": 1.27,
+    "temperature_mexicocity": 13.49
+  },
+  {
+    "time": 65836.8,
+    "temperature_newyorkcity": 1.18,
+    "temperature_mexicocity": 13.32
+  },
+  {
+    "time": 66096.0,
+    "temperature_newyorkcity": 1.09,
+    "temperature_mexicocity": 13.15
+  },
+  {
+    "time": 66355.2,
+    "temperature_newyorkcity": 1.0,
+    "temperature_mexicocity": 12.98
+  },
+  {
+    "time": 66614.4,
+    "temperature_newyorkcity": 0.91,
+    "temperature_mexicocity": 12.82
+  },
+  {
+    "time": 66873.59999999999,
+    "temperature_newyorkcity": 0.81,
+    "temperature_mexicocity": 12.65
+  },
+  {
+    "time": 67132.8,
+    "temperature_newyorkcity": 0.72,
+    "temperature_mexicocity": 12.48
+  },
+  {
+    "time": 67392.0,
+    "temperature_newyorkcity": 0.63,
+    "temperature_mexicocity": 12.31
+  },
+  {
+    "time": 67651.2,
+    "temperature_newyorkcity": 0.53,
+    "temperature_mexicocity": 12.15
+  },
+  {
+    "time": 67910.4,
+    "temperature_newyorkcity": 0.44,
+    "temperature_mexicocity": 11.98
+  },
+  {
+    "time": 68169.59999999999,
+    "temperature_newyorkcity": 0.35,
+    "temperature_mexicocity": 11.82
+  },
+  {
+    "time": 68428.8,
+    "temperature_newyorkcity": 0.25,
+    "temperature_mexicocity": 11.65
+  },
+  {
+    "time": 68688.0,
+    "temperature_newyorkcity": 0.16,
+    "temperature_mexicocity": 11.49
+  },
+  {
+    "time": 68947.2,
+    "temperature_newyorkcity": 0.06,
+    "temperature_mexicocity": 11.33
+  },
+  {
+    "time": 69206.4,
+    "temperature_newyorkcity": -0.03,
+    "temperature_mexicocity": 11.17
+  },
+  {
+    "time": 69465.59999999999,
+    "temperature_newyorkcity": -0.13,
+    "temperature_mexicocity": 11.0
+  },
+  {
+    "time": 69724.8,
+    "temperature_newyorkcity": -0.22,
+    "temperature_mexicocity": 10.85
+  },
+  {
+    "time": 69984.0,
+    "temperature_newyorkcity": -0.31,
+    "temperature_mexicocity": 10.69
+  },
+  {
+    "time": 70243.2,
+    "temperature_newyorkcity": -0.41,
+    "temperature_mexicocity": 10.53
+  },
+  {
+    "time": 70502.4,
+    "temperature_newyorkcity": -0.5,
+    "temperature_mexicocity": 10.37
+  },
+  {
+    "time": 70761.59999999999,
+    "temperature_newyorkcity": -0.6,
+    "temperature_mexicocity": 10.22
+  },
+  {
+    "time": 71020.8,
+    "temperature_newyorkcity": -0.69,
+    "temperature_mexicocity": 10.07
+  },
+  {
+    "time": 71280.0,
+    "temperature_newyorkcity": -0.78,
+    "temperature_mexicocity": 9.91
+  },
+  {
+    "time": 71539.2,
+    "temperature_newyorkcity": -0.88,
+    "temperature_mexicocity": 9.76
+  },
+  {
+    "time": 71798.4,
+    "temperature_newyorkcity": -0.97,
+    "temperature_mexicocity": 9.61
+  },
+  {
+    "time": 72057.59999999999,
+    "temperature_newyorkcity": -1.06,
+    "temperature_mexicocity": 9.47
+  },
+  {
+    "time": 72316.8,
+    "temperature_newyorkcity": -1.15,
+    "temperature_mexicocity": 9.32
+  },
+  {
+    "time": 72576.0,
+    "temperature_newyorkcity": -1.24,
+    "temperature_mexicocity": 9.18
+  },
+  {
+    "time": 72835.2,
+    "temperature_newyorkcity": -1.33,
+    "temperature_mexicocity": 9.04
+  },
+  {
+    "time": 73094.4,
+    "temperature_newyorkcity": -1.43,
+    "temperature_mexicocity": 8.89
+  },
+  {
+    "time": 73353.59999999999,
+    "temperature_newyorkcity": -1.52,
+    "temperature_mexicocity": 8.76
+  },
+  {
+    "time": 73612.8,
+    "temperature_newyorkcity": -1.6,
+    "temperature_mexicocity": 8.62
+  },
+  {
+    "time": 73872.0,
+    "temperature_newyorkcity": -1.69,
+    "temperature_mexicocity": 8.48
+  },
+  {
+    "time": 74131.2,
+    "temperature_newyorkcity": -1.78,
+    "temperature_mexicocity": 8.35
+  },
+  {
+    "time": 74390.4,
+    "temperature_newyorkcity": -1.87,
+    "temperature_mexicocity": 8.22
+  },
+  {
+    "time": 74649.59999999999,
+    "temperature_newyorkcity": -1.96,
+    "temperature_mexicocity": 8.09
+  },
+  {
+    "time": 74908.8,
+    "temperature_newyorkcity": -2.04,
+    "temperature_mexicocity": 7.96
+  },
+  {
+    "time": 75168.0,
+    "temperature_newyorkcity": -2.13,
+    "temperature_mexicocity": 7.84
+  },
+  {
+    "time": 75427.2,
+    "temperature_newyorkcity": -2.21,
+    "temperature_mexicocity": 7.72
+  },
+  {
+    "time": 75686.4,
+    "temperature_newyorkcity": -2.3,
+    "temperature_mexicocity": 7.6
+  },
+  {
+    "time": 75945.59999999999,
+    "temperature_newyorkcity": -2.38,
+    "temperature_mexicocity": 7.48
+  },
+  {
+    "time": 76204.8,
+    "temperature_newyorkcity": -2.46,
+    "temperature_mexicocity": 7.36
+  },
+  {
+    "time": 76464.0,
+    "temperature_newyorkcity": -2.55,
+    "temperature_mexicocity": 7.25
+  },
+  {
+    "time": 76723.2,
+    "temperature_newyorkcity": -2.63,
+    "temperature_mexicocity": 7.14
+  },
+  {
+    "time": 76982.4,
+    "temperature_newyorkcity": -2.71,
+    "temperature_mexicocity": 7.03
+  },
+  {
+    "time": 77241.59999999999,
+    "temperature_newyorkcity": -2.78,
+    "temperature_mexicocity": 6.92
+  },
+  {
+    "time": 77500.8,
+    "temperature_newyorkcity": -2.86,
+    "temperature_mexicocity": 6.82
+  },
+  {
+    "time": 77760.0,
+    "temperature_newyorkcity": -2.94,
+    "temperature_mexicocity": 6.72
+  },
+  {
+    "time": 78019.2,
+    "temperature_newyorkcity": -3.01,
+    "temperature_mexicocity": 6.62
+  },
+  {
+    "time": 78278.4,
+    "temperature_newyorkcity": -3.09,
+    "temperature_mexicocity": 6.52
+  },
+  {
+    "time": 78537.59999999999,
+    "temperature_newyorkcity": -3.16,
+    "temperature_mexicocity": 6.43
+  },
+  {
+    "time": 78796.8,
+    "temperature_newyorkcity": -3.24,
+    "temperature_mexicocity": 6.34
+  },
+  {
+    "time": 79056.0,
+    "temperature_newyorkcity": -3.31,
+    "temperature_mexicocity": 6.25
+  },
+  {
+    "time": 79315.2,
+    "temperature_newyorkcity": -3.38,
+    "temperature_mexicocity": 6.17
+  },
+  {
+    "time": 79574.4,
+    "temperature_newyorkcity": -3.45,
+    "temperature_mexicocity": 6.09
+  },
+  {
+    "time": 79833.59999999999,
+    "temperature_newyorkcity": -3.51,
+    "temperature_mexicocity": 6.01
+  },
+  {
+    "time": 80092.8,
+    "temperature_newyorkcity": -3.58,
+    "temperature_mexicocity": 5.93
+  },
+  {
+    "time": 80352.0,
+    "temperature_newyorkcity": -3.64,
+    "temperature_mexicocity": 5.86
+  },
+  {
+    "time": 80611.2,
+    "temperature_newyorkcity": -3.71,
+    "temperature_mexicocity": 5.79
+  },
+  {
+    "time": 80870.4,
+    "temperature_newyorkcity": -3.77,
+    "temperature_mexicocity": 5.72
+  },
+  {
+    "time": 81129.59999999999,
+    "temperature_newyorkcity": -3.83,
+    "temperature_mexicocity": 5.65
+  },
+  {
+    "time": 81388.8,
+    "temperature_newyorkcity": -3.89,
+    "temperature_mexicocity": 5.59
+  },
+  {
+    "time": 81648.0,
+    "temperature_newyorkcity": -3.95,
+    "temperature_mexicocity": 5.53
+  },
+  {
+    "time": 81907.2,
+    "temperature_newyorkcity": -4.01,
+    "temperature_mexicocity": 5.48
+  },
+  {
+    "time": 82166.4,
+    "temperature_newyorkcity": -4.06,
+    "temperature_mexicocity": 5.42
+  },
+  {
+    "time": 82425.59999999999,
+    "temperature_newyorkcity": -4.12,
+    "temperature_mexicocity": 5.37
+  },
+  {
+    "time": 82684.8,
+    "temperature_newyorkcity": -4.17,
+    "temperature_mexicocity": 5.33
+  },
+  {
+    "time": 82944.0,
+    "temperature_newyorkcity": -4.22,
+    "temperature_mexicocity": 5.28
+  },
+  {
+    "time": 83203.2,
+    "temperature_newyorkcity": -4.27,
+    "temperature_mexicocity": 5.24
+  },
+  {
+    "time": 83462.4,
+    "temperature_newyorkcity": -4.32,
+    "temperature_mexicocity": 5.2
+  },
+  {
+    "time": 83721.59999999999,
+    "temperature_newyorkcity": -4.37,
+    "temperature_mexicocity": 5.17
+  },
+  {
+    "time": 83980.8,
+    "temperature_newyorkcity": -4.41,
+    "temperature_mexicocity": 5.14
+  },
+  {
+    "time": 84240.0,
+    "temperature_newyorkcity": -4.46,
+    "temperature_mexicocity": 5.11
+  },
+  {
+    "time": 84499.2,
+    "temperature_newyorkcity": -4.5,
+    "temperature_mexicocity": 5.09
+  },
+  {
+    "time": 84758.4,
+    "temperature_newyorkcity": -4.54,
+    "temperature_mexicocity": 5.06
+  },
+  {
+    "time": 85017.59999999999,
+    "temperature_newyorkcity": -4.58,
+    "temperature_mexicocity": 5.05
+  },
+  {
+    "time": 85276.8,
+    "temperature_newyorkcity": -4.61,
+    "temperature_mexicocity": 5.03
+  },
+  {
+    "time": 85536.0,
+    "temperature_newyorkcity": -4.65,
+    "temperature_mexicocity": 5.02
+  },
+  {
+    "time": 85795.2,
+    "temperature_newyorkcity": -4.68,
+    "temperature_mexicocity": 5.01
+  },
+  {
+    "time": 86054.4,
+    "temperature_newyorkcity": -4.71,
+    "temperature_mexicocity": 5.0
+  },
+  {
+    "time": 86313.59999999999,
+    "temperature_newyorkcity": -4.75,
+    "temperature_mexicocity": 5.0
+  },
+  {
+    "time": 86572.8,
+    "temperature_newyorkcity": -4.77,
+    "temperature_mexicocity": 5.0
+  },
+  {
+    "time": 86832.0,
+    "temperature_newyorkcity": -4.8,
+    "temperature_mexicocity": 5.0
+  },
+  {
+    "time": 87091.2,
+    "temperature_newyorkcity": -4.83,
+    "temperature_mexicocity": 5.01
+  },
+  {
+    "time": 87350.4,
+    "temperature_newyorkcity": -4.85,
+    "temperature_mexicocity": 5.02
+  },
+  {
+    "time": 87609.59999999999,
+    "temperature_newyorkcity": -4.87,
+    "temperature_mexicocity": 5.03
+  },
+  {
+    "time": 87868.8,
+    "temperature_newyorkcity": -4.89,
+    "temperature_mexicocity": 5.05
+  },
+  {
+    "time": 88128.0,
+    "temperature_newyorkcity": -4.91,
+    "temperature_mexicocity": 5.07
+  },
+  {
+    "time": 88387.2,
+    "temperature_newyorkcity": -4.93,
+    "temperature_mexicocity": 5.09
+  },
+  {
+    "time": 88646.4,
+    "temperature_newyorkcity": -4.94,
+    "temperature_mexicocity": 5.12
+  },
+  {
+    "time": 88905.59999999999,
+    "temperature_newyorkcity": -4.96,
+    "temperature_mexicocity": 5.15
+  },
+  {
+    "time": 89164.8,
+    "temperature_newyorkcity": -4.97,
+    "temperature_mexicocity": 5.18
+  },
+  {
+    "time": 89424.0,
+    "temperature_newyorkcity": -4.98,
+    "temperature_mexicocity": 5.22
+  },
+  {
+    "time": 89683.2,
+    "temperature_newyorkcity": -4.99,
+    "temperature_mexicocity": 5.26
+  },
+  {
+    "time": 89942.4,
+    "temperature_newyorkcity": -4.99,
+    "temperature_mexicocity": 5.3
+  },
+  {
+    "time": 90201.59999999999,
+    "temperature_newyorkcity": -5.0,
+    "temperature_mexicocity": 5.34
+  },
+  {
+    "time": 90460.8,
+    "temperature_newyorkcity": -5.0,
+    "temperature_mexicocity": 5.39
+  },
+  {
+    "time": 90720.0,
+    "temperature_newyorkcity": -5.0,
+    "temperature_mexicocity": 5.44
+  },
+  {
+    "time": 90979.2,
+    "temperature_newyorkcity": -5.0,
+    "temperature_mexicocity": 5.49
+  },
+  {
+    "time": 91238.4,
+    "temperature_newyorkcity": -5.0,
+    "temperature_mexicocity": 5.55
+  },
+  {
+    "time": 91497.59999999999,
+    "temperature_newyorkcity": -4.99,
+    "temperature_mexicocity": 5.61
+  },
+  {
+    "time": 91756.8,
+    "temperature_newyorkcity": -4.99,
+    "temperature_mexicocity": 5.67
+  },
+  {
+    "time": 92016.0,
+    "temperature_newyorkcity": -4.98,
+    "temperature_mexicocity": 5.74
+  },
+  {
+    "time": 92275.2,
+    "temperature_newyorkcity": -4.97,
+    "temperature_mexicocity": 5.81
+  },
+  {
+    "time": 92534.4,
+    "temperature_newyorkcity": -4.96,
+    "temperature_mexicocity": 5.88
+  },
+  {
+    "time": 92793.59999999999,
+    "temperature_newyorkcity": -4.94,
+    "temperature_mexicocity": 5.96
+  },
+  {
+    "time": 93052.8,
+    "temperature_newyorkcity": -4.93,
+    "temperature_mexicocity": 6.03
+  },
+  {
+    "time": 93312.0,
+    "temperature_newyorkcity": -4.91,
+    "temperature_mexicocity": 6.11
+  },
+  {
+    "time": 93571.2,
+    "temperature_newyorkcity": -4.89,
+    "temperature_mexicocity": 6.2
+  },
+  {
+    "time": 93830.4,
+    "temperature_newyorkcity": -4.87,
+    "temperature_mexicocity": 6.28
+  },
+  {
+    "time": 94089.59999999999,
+    "temperature_newyorkcity": -4.85,
+    "temperature_mexicocity": 6.37
+  },
+  {
+    "time": 94348.8,
+    "temperature_newyorkcity": -4.83,
+    "temperature_mexicocity": 6.46
+  },
+  {
+    "time": 94608.0,
+    "temperature_newyorkcity": -4.8,
+    "temperature_mexicocity": 6.56
+  },
+  {
+    "time": 94867.2,
+    "temperature_newyorkcity": -4.77,
+    "temperature_mexicocity": 6.65
+  },
+  {
+    "time": 95126.4,
+    "temperature_newyorkcity": -4.75,
+    "temperature_mexicocity": 6.75
+  },
+  {
+    "time": 95385.59999999999,
+    "temperature_newyorkcity": -4.71,
+    "temperature_mexicocity": 6.85
+  },
+  {
+    "time": 95644.8,
+    "temperature_newyorkcity": -4.68,
+    "temperature_mexicocity": 6.96
+  },
+  {
+    "time": 95904.0,
+    "temperature_newyorkcity": -4.65,
+    "temperature_mexicocity": 7.07
+  },
+  {
+    "time": 96163.2,
+    "temperature_newyorkcity": -4.61,
+    "temperature_mexicocity": 7.17
+  },
+  {
+    "time": 96422.4,
+    "temperature_newyorkcity": -4.58,
+    "temperature_mexicocity": 7.29
+  },
+  {
+    "time": 96681.59999999999,
+    "temperature_newyorkcity": -4.54,
+    "temperature_mexicocity": 7.4
+  },
+  {
+    "time": 96940.8,
+    "temperature_newyorkcity": -4.5,
+    "temperature_mexicocity": 7.52
+  },
+  {
+    "time": 97200.0,
+    "temperature_newyorkcity": -4.46,
+    "temperature_mexicocity": 7.64
+  },
+  {
+    "time": 97459.2,
+    "temperature_newyorkcity": -4.41,
+    "temperature_mexicocity": 7.76
+  },
+  {
+    "time": 97718.4,
+    "temperature_newyorkcity": -4.37,
+    "temperature_mexicocity": 7.88
+  },
+  {
+    "time": 97977.59999999999,
+    "temperature_newyorkcity": -4.32,
+    "temperature_mexicocity": 8.01
+  },
+  {
+    "time": 98236.8,
+    "temperature_newyorkcity": -4.27,
+    "temperature_mexicocity": 8.13
+  },
+  {
+    "time": 98496.0,
+    "temperature_newyorkcity": -4.22,
+    "temperature_mexicocity": 8.26
+  },
+  {
+    "time": 98755.2,
+    "temperature_newyorkcity": -4.17,
+    "temperature_mexicocity": 8.39
+  },
+  {
+    "time": 99014.4,
+    "temperature_newyorkcity": -4.12,
+    "temperature_mexicocity": 8.53
+  },
+  {
+    "time": 99273.59999999999,
+    "temperature_newyorkcity": -4.06,
+    "temperature_mexicocity": 8.66
+  },
+  {
+    "time": 99532.79999999999,
+    "temperature_newyorkcity": -4.01,
+    "temperature_mexicocity": 8.8
+  },
+  {
+    "time": 99792.0,
+    "temperature_newyorkcity": -3.95,
+    "temperature_mexicocity": 8.94
+  },
+  {
+    "time": 100051.2,
+    "temperature_newyorkcity": -3.89,
+    "temperature_mexicocity": 9.08
+  },
+  {
+    "time": 100310.4,
+    "temperature_newyorkcity": -3.83,
+    "temperature_mexicocity": 9.23
+  },
+  {
+    "time": 100569.59999999999,
+    "temperature_newyorkcity": -3.77,
+    "temperature_mexicocity": 9.37
+  },
+  {
+    "time": 100828.79999999999,
+    "temperature_newyorkcity": -3.71,
+    "temperature_mexicocity": 9.52
+  },
+  {
+    "time": 101088.0,
+    "temperature_newyorkcity": -3.64,
+    "temperature_mexicocity": 9.66
+  },
+  {
+    "time": 101347.2,
+    "temperature_newyorkcity": -3.58,
+    "temperature_mexicocity": 9.81
+  },
+  {
+    "time": 101606.4,
+    "temperature_newyorkcity": -3.51,
+    "temperature_mexicocity": 9.96
+  },
+  {
+    "time": 101865.59999999999,
+    "temperature_newyorkcity": -3.45,
+    "temperature_mexicocity": 10.12
+  },
+  {
+    "time": 102124.79999999999,
+    "temperature_newyorkcity": -3.38,
+    "temperature_mexicocity": 10.27
+  },
+  {
+    "time": 102384.0,
+    "temperature_newyorkcity": -3.31,
+    "temperature_mexicocity": 10.43
+  },
+  {
+    "time": 102643.2,
+    "temperature_newyorkcity": -3.24,
+    "temperature_mexicocity": 10.58
+  },
+  {
+    "time": 102902.4,
+    "temperature_newyorkcity": -3.16,
+    "temperature_mexicocity": 10.74
+  },
+  {
+    "time": 103161.59999999999,
+    "temperature_newyorkcity": -3.09,
+    "temperature_mexicocity": 10.9
+  },
+  {
+    "time": 103420.79999999999,
+    "temperature_newyorkcity": -3.01,
+    "temperature_mexicocity": 11.06
+  },
+  {
+    "time": 103680.0,
+    "temperature_newyorkcity": -2.94,
+    "temperature_mexicocity": 11.22
+  },
+  {
+    "time": 103939.2,
+    "temperature_newyorkcity": -2.86,
+    "temperature_mexicocity": 11.38
+  },
+  {
+    "time": 104198.4,
+    "temperature_newyorkcity": -2.78,
+    "temperature_mexicocity": 11.54
+  },
+  {
+    "time": 104457.59999999999,
+    "temperature_newyorkcity": -2.71,
+    "temperature_mexicocity": 11.71
+  },
+  {
+    "time": 104716.79999999999,
+    "temperature_newyorkcity": -2.63,
+    "temperature_mexicocity": 11.87
+  },
+  {
+    "time": 104976.0,
+    "temperature_newyorkcity": -2.55,
+    "temperature_mexicocity": 12.04
+  },
+  {
+    "time": 105235.2,
+    "temperature_newyorkcity": -2.46,
+    "temperature_mexicocity": 12.2
+  },
+  {
+    "time": 105494.4,
+    "temperature_newyorkcity": -2.38,
+    "temperature_mexicocity": 12.37
+  },
+  {
+    "time": 105753.59999999999,
+    "temperature_newyorkcity": -2.3,
+    "temperature_mexicocity": 12.54
+  },
+  {
+    "time": 106012.79999999999,
+    "temperature_newyorkcity": -2.21,
+    "temperature_mexicocity": 12.7
+  },
+  {
+    "time": 106272.0,
+    "temperature_newyorkcity": -2.13,
+    "temperature_mexicocity": 12.87
+  },
+  {
+    "time": 106531.2,
+    "temperature_newyorkcity": -2.04,
+    "temperature_mexicocity": 13.04
+  },
+  {
+    "time": 106790.4,
+    "temperature_newyorkcity": -1.96,
+    "temperature_mexicocity": 13.21
+  },
+  {
+    "time": 107049.59999999999,
+    "temperature_newyorkcity": -1.87,
+    "temperature_mexicocity": 13.38
+  },
+  {
+    "time": 107308.79999999999,
+    "temperature_newyorkcity": -1.78,
+    "temperature_mexicocity": 13.55
+  },
+  {
+    "time": 107568.0,
+    "temperature_newyorkcity": -1.69,
+    "temperature_mexicocity": 13.72
+  },
+  {
+    "time": 107827.2,
+    "temperature_newyorkcity": -1.6,
+    "temperature_mexicocity": 13.89
+  },
+  {
+    "time": 108086.4,
+    "temperature_newyorkcity": -1.52,
+    "temperature_mexicocity": 14.06
+  },
+  {
+    "time": 108345.59999999999,
+    "temperature_newyorkcity": -1.43,
+    "temperature_mexicocity": 14.23
+  },
+  {
+    "time": 108604.79999999999,
+    "temperature_newyorkcity": -1.33,
+    "temperature_mexicocity": 14.4
+  },
+  {
+    "time": 108864.0,
+    "temperature_newyorkcity": -1.24,
+    "temperature_mexicocity": 14.57
+  },
+  {
+    "time": 109123.2,
+    "temperature_newyorkcity": -1.15,
+    "temperature_mexicocity": 14.73
+  },
+  {
+    "time": 109382.4,
+    "temperature_newyorkcity": -1.06,
+    "temperature_mexicocity": 14.9
+  },
+  {
+    "time": 109641.59999999999,
+    "temperature_newyorkcity": -0.97,
+    "temperature_mexicocity": 15.07
+  },
+  {
+    "time": 109900.79999999999,
+    "temperature_newyorkcity": -0.88,
+    "temperature_mexicocity": 15.24
+  },
+  {
+    "time": 110160.0,
+    "temperature_newyorkcity": -0.78,
+    "temperature_mexicocity": 15.41
+  },
+  {
+    "time": 110419.2,
+    "temperature_newyorkcity": -0.69,
+    "temperature_mexicocity": 15.58
+  },
+  {
+    "time": 110678.4,
+    "temperature_newyorkcity": -0.6,
+    "temperature_mexicocity": 15.74
+  },
+  {
+    "time": 110937.59999999999,
+    "temperature_newyorkcity": -0.5,
+    "temperature_mexicocity": 15.91
+  },
+  {
+    "time": 111196.79999999999,
+    "temperature_newyorkcity": -0.41,
+    "temperature_mexicocity": 16.07
+  },
+  {
+    "time": 111456.0,
+    "temperature_newyorkcity": -0.31,
+    "temperature_mexicocity": 16.24
+  },
+  {
+    "time": 111715.2,
+    "temperature_newyorkcity": -0.22,
+    "temperature_mexicocity": 16.4
+  },
+  {
+    "time": 111974.4,
+    "temperature_newyorkcity": -0.13,
+    "temperature_mexicocity": 16.57
+  },
+  {
+    "time": 112233.59999999999,
+    "temperature_newyorkcity": -0.03,
+    "temperature_mexicocity": 16.73
+  },
+  {
+    "time": 112492.79999999999,
+    "temperature_newyorkcity": 0.06,
+    "temperature_mexicocity": 16.89
+  },
+  {
+    "time": 112752.0,
+    "temperature_newyorkcity": 0.16,
+    "temperature_mexicocity": 17.05
+  },
+  {
+    "time": 113011.2,
+    "temperature_newyorkcity": 0.25,
+    "temperature_mexicocity": 17.21
+  },
+  {
+    "time": 113270.4,
+    "temperature_newyorkcity": 0.35,
+    "temperature_mexicocity": 17.37
+  },
+  {
+    "time": 113529.59999999999,
+    "temperature_newyorkcity": 0.44,
+    "temperature_mexicocity": 17.52
+  },
+  {
+    "time": 113788.79999999999,
+    "temperature_newyorkcity": 0.53,
+    "temperature_mexicocity": 17.68
+  },
+  {
+    "time": 114048.0,
+    "temperature_newyorkcity": 0.63,
+    "temperature_mexicocity": 17.83
+  },
+  {
+    "time": 114307.2,
+    "temperature_newyorkcity": 0.72,
+    "temperature_mexicocity": 17.98
+  },
+  {
+    "time": 114566.4,
+    "temperature_newyorkcity": 0.81,
+    "temperature_mexicocity": 18.14
+  },
+  {
+    "time": 114825.59999999999,
+    "temperature_newyorkcity": 0.91,
+    "temperature_mexicocity": 18.29
+  },
+  {
+    "time": 115084.79999999999,
+    "temperature_newyorkcity": 1.0,
+    "temperature_mexicocity": 18.43
+  },
+  {
+    "time": 115344.0,
+    "temperature_newyorkcity": 1.09,
+    "temperature_mexicocity": 18.58
+  },
+  {
+    "time": 115603.2,
+    "temperature_newyorkcity": 1.18,
+    "temperature_mexicocity": 18.73
+  },
+  {
+    "time": 115862.4,
+    "temperature_newyorkcity": 1.27,
+    "temperature_mexicocity": 18.87
+  },
+  {
+    "time": 116121.59999999999,
+    "temperature_newyorkcity": 1.36,
+    "temperature_mexicocity": 19.01
+  },
+  {
+    "time": 116380.79999999999,
+    "temperature_newyorkcity": 1.46,
+    "temperature_mexicocity": 19.15
+  },
+  {
+    "time": 116640.0,
+    "temperature_newyorkcity": 1.55,
+    "temperature_mexicocity": 19.29
+  },
+  {
+    "time": 116899.2,
+    "temperature_newyorkcity": 1.63,
+    "temperature_mexicocity": 19.43
+  },
+  {
+    "time": 117158.4,
+    "temperature_newyorkcity": 1.72,
+    "temperature_mexicocity": 19.56
+  },
+  {
+    "time": 117417.59999999999,
+    "temperature_newyorkcity": 1.81,
+    "temperature_mexicocity": 19.69
+  },
+  {
+    "time": 117676.79999999999,
+    "temperature_newyorkcity": 1.9,
+    "temperature_mexicocity": 19.82
+  },
+  {
+    "time": 117936.0,
+    "temperature_newyorkcity": 1.99,
+    "temperature_mexicocity": 19.95
+  },
+  {
+    "time": 118195.2,
+    "temperature_newyorkcity": 2.07,
+    "temperature_mexicocity": 20.08
+  },
+  {
+    "time": 118454.4,
+    "temperature_newyorkcity": 2.16,
+    "temperature_mexicocity": 20.2
+  },
+  {
+    "time": 118713.59999999999,
+    "temperature_newyorkcity": 2.24,
+    "temperature_mexicocity": 20.32
+  },
+  {
+    "time": 118972.79999999999,
+    "temperature_newyorkcity": 2.33,
+    "temperature_mexicocity": 20.44
+  },
+  {
+    "time": 119232.0,
+    "temperature_newyorkcity": 2.41,
+    "temperature_mexicocity": 20.56
+  },
+  {
+    "time": 119491.2,
+    "temperature_newyorkcity": 2.49,
+    "temperature_mexicocity": 20.68
+  },
+  {
+    "time": 119750.4,
+    "temperature_newyorkcity": 2.57,
+    "temperature_mexicocity": 20.79
+  },
+  {
+    "time": 120009.59999999999,
+    "temperature_newyorkcity": 2.65,
+    "temperature_mexicocity": 20.9
+  },
+  {
+    "time": 120268.79999999999,
+    "temperature_newyorkcity": 2.73,
+    "temperature_mexicocity": 21.01
+  },
+  {
+    "time": 120528.0,
+    "temperature_newyorkcity": 2.81,
+    "temperature_mexicocity": 21.11
+  },
+  {
+    "time": 120787.2,
+    "temperature_newyorkcity": 2.89,
+    "temperature_mexicocity": 21.21
+  },
+  {
+    "time": 121046.4,
+    "temperature_newyorkcity": 2.96,
+    "temperature_mexicocity": 21.31
+  },
+  {
+    "time": 121305.59999999999,
+    "temperature_newyorkcity": 3.04,
+    "temperature_mexicocity": 21.41
+  },
+  {
+    "time": 121564.79999999999,
+    "temperature_newyorkcity": 3.11,
+    "temperature_mexicocity": 21.51
+  },
+  {
+    "time": 121824.0,
+    "temperature_newyorkcity": 3.19,
+    "temperature_mexicocity": 21.6
+  },
+  {
+    "time": 122083.2,
+    "temperature_newyorkcity": 3.26,
+    "temperature_mexicocity": 21.69
+  },
+  {
+    "time": 122342.4,
+    "temperature_newyorkcity": 3.33,
+    "temperature_mexicocity": 21.78
+  },
+  {
+    "time": 122601.59999999999,
+    "temperature_newyorkcity": 3.4,
+    "temperature_mexicocity": 21.86
+  },
+  {
+    "time": 122860.79999999999,
+    "temperature_newyorkcity": 3.47,
+    "temperature_mexicocity": 21.94
+  },
+  {
+    "time": 123120.0,
+    "temperature_newyorkcity": 3.54,
+    "temperature_mexicocity": 22.02
+  },
+  {
+    "time": 123379.2,
+    "temperature_newyorkcity": 3.6,
+    "temperature_mexicocity": 22.09
+  },
+  {
+    "time": 123638.4,
+    "temperature_newyorkcity": 3.67,
+    "temperature_mexicocity": 22.17
+  },
+  {
+    "time": 123897.59999999999,
+    "temperature_newyorkcity": 3.73,
+    "temperature_mexicocity": 22.24
+  },
+  {
+    "time": 124156.79999999999,
+    "temperature_newyorkcity": 3.79,
+    "temperature_mexicocity": 22.3
+  },
+  {
+    "time": 124416.0,
+    "temperature_newyorkcity": 3.85,
+    "temperature_mexicocity": 22.37
+  },
+  {
+    "time": 124675.2,
+    "temperature_newyorkcity": 3.91,
+    "temperature_mexicocity": 22.43
+  },
+  {
+    "time": 124934.4,
+    "temperature_newyorkcity": 3.97,
+    "temperature_mexicocity": 22.49
+  },
+  {
+    "time": 125193.59999999999,
+    "temperature_newyorkcity": 4.03,
+    "temperature_mexicocity": 22.54
+  },
+  {
+    "time": 125452.79999999999,
+    "temperature_newyorkcity": 4.08,
+    "temperature_mexicocity": 22.59
+  },
+  {
+    "time": 125712.0,
+    "temperature_newyorkcity": 4.14,
+    "temperature_mexicocity": 22.64
+  },
+  {
+    "time": 125971.2,
+    "temperature_newyorkcity": 4.19,
+    "temperature_mexicocity": 22.69
+  },
+  {
+    "time": 126230.4,
+    "temperature_newyorkcity": 4.24,
+    "temperature_mexicocity": 22.73
+  },
+  {
+    "time": 126489.59999999999,
+    "temperature_newyorkcity": 4.29,
+    "temperature_mexicocity": 22.77
+  },
+  {
+    "time": 126748.79999999999,
+    "temperature_newyorkcity": 4.34,
+    "temperature_mexicocity": 22.81
+  },
+  {
+    "time": 127008.0,
+    "temperature_newyorkcity": 4.38,
+    "temperature_mexicocity": 22.84
+  },
+  {
+    "time": 127267.2,
+    "temperature_newyorkcity": 4.43,
+    "temperature_mexicocity": 22.87
+  },
+  {
+    "time": 127526.4,
+    "temperature_newyorkcity": 4.47,
+    "temperature_mexicocity": 22.9
+  },
+  {
+    "time": 127785.59999999999,
+    "temperature_newyorkcity": 4.51,
+    "temperature_mexicocity": 22.92
+  },
+  {
+    "time": 128044.79999999999,
+    "temperature_newyorkcity": 4.55,
+    "temperature_mexicocity": 22.94
+  },
+  {
+    "time": 128304.0,
+    "temperature_newyorkcity": 4.59,
+    "temperature_mexicocity": 22.96
+  },
+  {
+    "time": 128563.2,
+    "temperature_newyorkcity": 4.63,
+    "temperature_mexicocity": 22.97
+  },
+  {
+    "time": 128822.4,
+    "temperature_newyorkcity": 4.66,
+    "temperature_mexicocity": 22.99
+  },
+  {
+    "time": 129081.59999999999,
+    "temperature_newyorkcity": 4.69,
+    "temperature_mexicocity": 22.99
+  },
+  {
+    "time": 129340.79999999999,
+    "temperature_newyorkcity": 4.73,
+    "temperature_mexicocity": 23.0
+  },
+  {
+    "time": 129600.0,
+    "temperature_newyorkcity": 4.76,
+    "temperature_mexicocity": 23.0
+  },
+  {
+    "time": 129859.2,
+    "temperature_newyorkcity": 4.78,
+    "temperature_mexicocity": 23.0
+  },
+  {
+    "time": 130118.4,
+    "temperature_newyorkcity": 4.81,
+    "temperature_mexicocity": 22.99
+  },
+  {
+    "time": 130377.59999999999,
+    "temperature_newyorkcity": 4.84,
+    "temperature_mexicocity": 22.99
+  },
+  {
+    "time": 130636.79999999999,
+    "temperature_newyorkcity": 4.86,
+    "temperature_mexicocity": 22.97
+  },
+  {
+    "time": 130896.0,
+    "temperature_newyorkcity": 4.88,
+    "temperature_mexicocity": 22.96
+  },
+  {
+    "time": 131155.19999999998,
+    "temperature_newyorkcity": 4.9,
+    "temperature_mexicocity": 22.94
+  },
+  {
+    "time": 131414.4,
+    "temperature_newyorkcity": 4.92,
+    "temperature_mexicocity": 22.92
+  },
+  {
+    "time": 131673.6,
+    "temperature_newyorkcity": 4.93,
+    "temperature_mexicocity": 22.9
+  },
+  {
+    "time": 131932.8,
+    "temperature_newyorkcity": 4.95,
+    "temperature_mexicocity": 22.87
+  },
+  {
+    "time": 132192.0,
+    "temperature_newyorkcity": 4.96,
+    "temperature_mexicocity": 22.84
+  },
+  {
+    "time": 132451.19999999998,
+    "temperature_newyorkcity": 4.97,
+    "temperature_mexicocity": 22.81
+  },
+  {
+    "time": 132710.4,
+    "temperature_newyorkcity": 4.98,
+    "temperature_mexicocity": 22.77
+  },
+  {
+    "time": 132969.6,
+    "temperature_newyorkcity": 4.99,
+    "temperature_mexicocity": 22.73
+  },
+  {
+    "time": 133228.8,
+    "temperature_newyorkcity": 4.99,
+    "temperature_mexicocity": 22.69
+  },
+  {
+    "time": 133488.0,
+    "temperature_newyorkcity": 5.0,
+    "temperature_mexicocity": 22.64
+  },
+  {
+    "time": 133747.19999999998,
+    "temperature_newyorkcity": 5.0,
+    "temperature_mexicocity": 22.59
+  },
+  {
+    "time": 134006.4,
+    "temperature_newyorkcity": 5.0,
+    "temperature_mexicocity": 22.54
+  },
+  {
+    "time": 134265.6,
+    "temperature_newyorkcity": 5.0,
+    "temperature_mexicocity": 22.49
+  },
+  {
+    "time": 134524.8,
+    "temperature_newyorkcity": 5.0,
+    "temperature_mexicocity": 22.43
+  },
+  {
+    "time": 134784.0,
+    "temperature_newyorkcity": 4.99,
+    "temperature_mexicocity": 22.37
+  },
+  {
+    "time": 135043.19999999998,
+    "temperature_newyorkcity": 4.98,
+    "temperature_mexicocity": 22.3
+  },
+  {
+    "time": 135302.4,
+    "temperature_newyorkcity": 4.97,
+    "temperature_mexicocity": 22.24
+  },
+  {
+    "time": 135561.6,
+    "temperature_newyorkcity": 4.96,
+    "temperature_mexicocity": 22.17
+  },
+  {
+    "time": 135820.8,
+    "temperature_newyorkcity": 4.95,
+    "temperature_mexicocity": 22.09
+  },
+  {
+    "time": 136080.0,
+    "temperature_newyorkcity": 4.94,
+    "temperature_mexicocity": 22.02
+  },
+  {
+    "time": 136339.19999999998,
+    "temperature_newyorkcity": 4.92,
+    "temperature_mexicocity": 21.94
+  },
+  {
+    "time": 136598.4,
+    "temperature_newyorkcity": 4.91,
+    "temperature_mexicocity": 21.86
+  },
+  {
+    "time": 136857.6,
+    "temperature_newyorkcity": 4.89,
+    "temperature_mexicocity": 21.78
+  },
+  {
+    "time": 137116.8,
+    "temperature_newyorkcity": 4.87,
+    "temperature_mexicocity": 21.69
+  },
+  {
+    "time": 137376.0,
+    "temperature_newyorkcity": 4.84,
+    "temperature_mexicocity": 21.6
+  },
+  {
+    "time": 137635.19999999998,
+    "temperature_newyorkcity": 4.82,
+    "temperature_mexicocity": 21.51
+  },
+  {
+    "time": 137894.4,
+    "temperature_newyorkcity": 4.79,
+    "temperature_mexicocity": 21.41
+  },
+  {
+    "time": 138153.6,
+    "temperature_newyorkcity": 4.76,
+    "temperature_mexicocity": 21.31
+  },
+  {
+    "time": 138412.8,
+    "temperature_newyorkcity": 4.74,
+    "temperature_mexicocity": 21.21
+  },
+  {
+    "time": 138672.0,
+    "temperature_newyorkcity": 4.7,
+    "temperature_mexicocity": 21.11
+  },
+  {
+    "time": 138931.19999999998,
+    "temperature_newyorkcity": 4.67,
+    "temperature_mexicocity": 21.01
+  },
+  {
+    "time": 139190.4,
+    "temperature_newyorkcity": 4.64,
+    "temperature_mexicocity": 20.9
+  },
+  {
+    "time": 139449.6,
+    "temperature_newyorkcity": 4.6,
+    "temperature_mexicocity": 20.79
+  },
+  {
+    "time": 139708.8,
+    "temperature_newyorkcity": 4.56,
+    "temperature_mexicocity": 20.68
+  },
+  {
+    "time": 139968.0,
+    "temperature_newyorkcity": 4.52,
+    "temperature_mexicocity": 20.56
+  },
+  {
+    "time": 140227.19999999998,
+    "temperature_newyorkcity": 4.48,
+    "temperature_mexicocity": 20.44
+  },
+  {
+    "time": 140486.4,
+    "temperature_newyorkcity": 4.44,
+    "temperature_mexicocity": 20.32
+  },
+  {
+    "time": 140745.6,
+    "temperature_newyorkcity": 4.4,
+    "temperature_mexicocity": 20.2
+  },
+  {
+    "time": 141004.8,
+    "temperature_newyorkcity": 4.35,
+    "temperature_mexicocity": 20.08
+  },
+  {
+    "time": 141264.0,
+    "temperature_newyorkcity": 4.3,
+    "temperature_mexicocity": 19.95
+  },
+  {
+    "time": 141523.19999999998,
+    "temperature_newyorkcity": 4.25,
+    "temperature_mexicocity": 19.82
+  },
+  {
+    "time": 141782.4,
+    "temperature_newyorkcity": 4.2,
+    "temperature_mexicocity": 19.69
+  },
+  {
+    "time": 142041.6,
+    "temperature_newyorkcity": 4.15,
+    "temperature_mexicocity": 19.56
+  },
+  {
+    "time": 142300.8,
+    "temperature_newyorkcity": 4.1,
+    "temperature_mexicocity": 19.43
+  },
+  {
+    "time": 142560.0,
+    "temperature_newyorkcity": 4.05,
+    "temperature_mexicocity": 19.29
+  },
+  {
+    "time": 142819.19999999998,
+    "temperature_newyorkcity": 3.99,
+    "temperature_mexicocity": 19.15
+  },
+  {
+    "time": 143078.4,
+    "temperature_newyorkcity": 3.93,
+    "temperature_mexicocity": 19.01
+  },
+  {
+    "time": 143337.6,
+    "temperature_newyorkcity": 3.87,
+    "temperature_mexicocity": 18.87
+  },
+  {
+    "time": 143596.8,
+    "temperature_newyorkcity": 3.81,
+    "temperature_mexicocity": 18.73
+  },
+  {
+    "time": 143856.0,
+    "temperature_newyorkcity": 3.75,
+    "temperature_mexicocity": 18.58
+  },
+  {
+    "time": 144115.19999999998,
+    "temperature_newyorkcity": 3.69,
+    "temperature_mexicocity": 18.43
+  },
+  {
+    "time": 144374.4,
+    "temperature_newyorkcity": 3.62,
+    "temperature_mexicocity": 18.29
+  },
+  {
+    "time": 144633.6,
+    "temperature_newyorkcity": 3.56,
+    "temperature_mexicocity": 18.14
+  },
+  {
+    "time": 144892.8,
+    "temperature_newyorkcity": 3.49,
+    "temperature_mexicocity": 17.98
+  },
+  {
+    "time": 145152.0,
+    "temperature_newyorkcity": 3.42,
+    "temperature_mexicocity": 17.83
+  },
+  {
+    "time": 145411.19999999998,
+    "temperature_newyorkcity": 3.35,
+    "temperature_mexicocity": 17.68
+  },
+  {
+    "time": 145670.4,
+    "temperature_newyorkcity": 3.28,
+    "temperature_mexicocity": 17.52
+  },
+  {
+    "time": 145929.6,
+    "temperature_newyorkcity": 3.21,
+    "temperature_mexicocity": 17.37
+  },
+  {
+    "time": 146188.8,
+    "temperature_newyorkcity": 3.14,
+    "temperature_mexicocity": 17.21
+  },
+  {
+    "time": 146448.0,
+    "temperature_newyorkcity": 3.06,
+    "temperature_mexicocity": 17.05
+  },
+  {
+    "time": 146707.19999999998,
+    "temperature_newyorkcity": 2.99,
+    "temperature_mexicocity": 16.89
+  },
+  {
+    "time": 146966.4,
+    "temperature_newyorkcity": 2.91,
+    "temperature_mexicocity": 16.73
+  },
+  {
+    "time": 147225.6,
+    "temperature_newyorkcity": 2.84,
+    "temperature_mexicocity": 16.57
+  },
+  {
+    "time": 147484.8,
+    "temperature_newyorkcity": 2.76,
+    "temperature_mexicocity": 16.4
+  },
+  {
+    "time": 147744.0,
+    "temperature_newyorkcity": 2.68,
+    "temperature_mexicocity": 16.24
+  },
+  {
+    "time": 148003.19999999998,
+    "temperature_newyorkcity": 2.6,
+    "temperature_mexicocity": 16.07
+  },
+  {
+    "time": 148262.4,
+    "temperature_newyorkcity": 2.52,
+    "temperature_mexicocity": 15.91
+  },
+  {
+    "time": 148521.6,
+    "temperature_newyorkcity": 2.44,
+    "temperature_mexicocity": 15.74
+  },
+  {
+    "time": 148780.8,
+    "temperature_newyorkcity": 2.35,
+    "temperature_mexicocity": 15.58
+  },
+  {
+    "time": 149040.0,
+    "temperature_newyorkcity": 2.27,
+    "temperature_mexicocity": 15.41
+  },
+  {
+    "time": 149299.19999999998,
+    "temperature_newyorkcity": 2.19,
+    "temperature_mexicocity": 15.24
+  },
+  {
+    "time": 149558.4,
+    "temperature_newyorkcity": 2.1,
+    "temperature_mexicocity": 15.07
+  },
+  {
+    "time": 149817.6,
+    "temperature_newyorkcity": 2.01,
+    "temperature_mexicocity": 14.9
+  },
+  {
+    "time": 150076.8,
+    "temperature_newyorkcity": 1.93,
+    "temperature_mexicocity": 14.73
+  },
+  {
+    "time": 150336.0,
+    "temperature_newyorkcity": 1.84,
+    "temperature_mexicocity": 14.57
+  },
+  {
+    "time": 150595.19999999998,
+    "temperature_newyorkcity": 1.75,
+    "temperature_mexicocity": 14.4
+  },
+  {
+    "time": 150854.4,
+    "temperature_newyorkcity": 1.66,
+    "temperature_mexicocity": 14.23
+  },
+  {
+    "time": 151113.6,
+    "temperature_newyorkcity": 1.57,
+    "temperature_mexicocity": 14.06
+  },
+  {
+    "time": 151372.8,
+    "temperature_newyorkcity": 1.49,
+    "temperature_mexicocity": 13.89
+  },
+  {
+    "time": 151632.0,
+    "temperature_newyorkcity": 1.39,
+    "temperature_mexicocity": 13.72
+  },
+  {
+    "time": 151891.19999999998,
+    "temperature_newyorkcity": 1.3,
+    "temperature_mexicocity": 13.55
+  },
+  {
+    "time": 152150.4,
+    "temperature_newyorkcity": 1.21,
+    "temperature_mexicocity": 13.38
+  },
+  {
+    "time": 152409.6,
+    "temperature_newyorkcity": 1.12,
+    "temperature_mexicocity": 13.21
+  },
+  {
+    "time": 152668.8,
+    "temperature_newyorkcity": 1.03,
+    "temperature_mexicocity": 13.04
+  },
+  {
+    "time": 152928.0,
+    "temperature_newyorkcity": 0.94,
+    "temperature_mexicocity": 12.87
+  },
+  {
+    "time": 153187.19999999998,
+    "temperature_newyorkcity": 0.84,
+    "temperature_mexicocity": 12.7
+  },
+  {
+    "time": 153446.4,
+    "temperature_newyorkcity": 0.75,
+    "temperature_mexicocity": 12.54
+  },
+  {
+    "time": 153705.6,
+    "temperature_newyorkcity": 0.66,
+    "temperature_mexicocity": 12.37
+  },
+  {
+    "time": 153964.8,
+    "temperature_newyorkcity": 0.56,
+    "temperature_mexicocity": 12.2
+  },
+  {
+    "time": 154224.0,
+    "temperature_newyorkcity": 0.47,
+    "temperature_mexicocity": 12.04
+  },
+  {
+    "time": 154483.19999999998,
+    "temperature_newyorkcity": 0.38,
+    "temperature_mexicocity": 11.87
+  },
+  {
+    "time": 154742.4,
+    "temperature_newyorkcity": 0.28,
+    "temperature_mexicocity": 11.71
+  },
+  {
+    "time": 155001.6,
+    "temperature_newyorkcity": 0.19,
+    "temperature_mexicocity": 11.54
+  },
+  {
+    "time": 155260.8,
+    "temperature_newyorkcity": 0.09,
+    "temperature_mexicocity": 11.38
+  },
+  {
+    "time": 155520.0,
+    "temperature_newyorkcity": 0.0,
+    "temperature_mexicocity": 11.22
+  },
+  {
+    "time": 155779.19999999998,
+    "temperature_newyorkcity": -0.09,
+    "temperature_mexicocity": 11.06
+  },
+  {
+    "time": 156038.4,
+    "temperature_newyorkcity": -0.19,
+    "temperature_mexicocity": 10.9
+  },
+  {
+    "time": 156297.6,
+    "temperature_newyorkcity": -0.28,
+    "temperature_mexicocity": 10.74
+  },
+  {
+    "time": 156556.8,
+    "temperature_newyorkcity": -0.38,
+    "temperature_mexicocity": 10.58
+  },
+  {
+    "time": 156816.0,
+    "temperature_newyorkcity": -0.47,
+    "temperature_mexicocity": 10.43
+  },
+  {
+    "time": 157075.19999999998,
+    "temperature_newyorkcity": -0.56,
+    "temperature_mexicocity": 10.27
+  },
+  {
+    "time": 157334.4,
+    "temperature_newyorkcity": -0.66,
+    "temperature_mexicocity": 10.12
+  },
+  {
+    "time": 157593.6,
+    "temperature_newyorkcity": -0.75,
+    "temperature_mexicocity": 9.96
+  },
+  {
+    "time": 157852.8,
+    "temperature_newyorkcity": -0.84,
+    "temperature_mexicocity": 9.81
+  },
+  {
+    "time": 158112.0,
+    "temperature_newyorkcity": -0.94,
+    "temperature_mexicocity": 9.66
+  },
+  {
+    "time": 158371.19999999998,
+    "temperature_newyorkcity": -1.03,
+    "temperature_mexicocity": 9.52
+  },
+  {
+    "time": 158630.4,
+    "temperature_newyorkcity": -1.12,
+    "temperature_mexicocity": 9.37
+  },
+  {
+    "time": 158889.6,
+    "temperature_newyorkcity": -1.21,
+    "temperature_mexicocity": 9.23
+  },
+  {
+    "time": 159148.8,
+    "temperature_newyorkcity": -1.3,
+    "temperature_mexicocity": 9.08
+  },
+  {
+    "time": 159408.0,
+    "temperature_newyorkcity": -1.39,
+    "temperature_mexicocity": 8.94
+  },
+  {
+    "time": 159667.19999999998,
+    "temperature_newyorkcity": -1.49,
+    "temperature_mexicocity": 8.8
+  },
+  {
+    "time": 159926.4,
+    "temperature_newyorkcity": -1.57,
+    "temperature_mexicocity": 8.66
+  },
+  {
+    "time": 160185.6,
+    "temperature_newyorkcity": -1.66,
+    "temperature_mexicocity": 8.53
+  },
+  {
+    "time": 160444.8,
+    "temperature_newyorkcity": -1.75,
+    "temperature_mexicocity": 8.39
+  },
+  {
+    "time": 160704.0,
+    "temperature_newyorkcity": -1.84,
+    "temperature_mexicocity": 8.26
+  },
+  {
+    "time": 160963.19999999998,
+    "temperature_newyorkcity": -1.93,
+    "temperature_mexicocity": 8.13
+  },
+  {
+    "time": 161222.4,
+    "temperature_newyorkcity": -2.01,
+    "temperature_mexicocity": 8.01
+  },
+  {
+    "time": 161481.6,
+    "temperature_newyorkcity": -2.1,
+    "temperature_mexicocity": 7.88
+  },
+  {
+    "time": 161740.8,
+    "temperature_newyorkcity": -2.19,
+    "temperature_mexicocity": 7.76
+  },
+  {
+    "time": 162000.0,
+    "temperature_newyorkcity": -2.27,
+    "temperature_mexicocity": 7.64
+  },
+  {
+    "time": 162259.19999999998,
+    "temperature_newyorkcity": -2.35,
+    "temperature_mexicocity": 7.52
+  },
+  {
+    "time": 162518.4,
+    "temperature_newyorkcity": -2.44,
+    "temperature_mexicocity": 7.4
+  },
+  {
+    "time": 162777.6,
+    "temperature_newyorkcity": -2.52,
+    "temperature_mexicocity": 7.29
+  },
+  {
+    "time": 163036.8,
+    "temperature_newyorkcity": -2.6,
+    "temperature_mexicocity": 7.17
+  },
+  {
+    "time": 163296.0,
+    "temperature_newyorkcity": -2.68,
+    "temperature_mexicocity": 7.07
+  },
+  {
+    "time": 163555.19999999998,
+    "temperature_newyorkcity": -2.76,
+    "temperature_mexicocity": 6.96
+  },
+  {
+    "time": 163814.4,
+    "temperature_newyorkcity": -2.84,
+    "temperature_mexicocity": 6.85
+  },
+  {
+    "time": 164073.6,
+    "temperature_newyorkcity": -2.91,
+    "temperature_mexicocity": 6.75
+  },
+  {
+    "time": 164332.8,
+    "temperature_newyorkcity": -2.99,
+    "temperature_mexicocity": 6.65
+  },
+  {
+    "time": 164592.0,
+    "temperature_newyorkcity": -3.06,
+    "temperature_mexicocity": 6.56
+  },
+  {
+    "time": 164851.19999999998,
+    "temperature_newyorkcity": -3.14,
+    "temperature_mexicocity": 6.46
+  },
+  {
+    "time": 165110.4,
+    "temperature_newyorkcity": -3.21,
+    "temperature_mexicocity": 6.37
+  },
+  {
+    "time": 165369.6,
+    "temperature_newyorkcity": -3.28,
+    "temperature_mexicocity": 6.28
+  },
+  {
+    "time": 165628.8,
+    "temperature_newyorkcity": -3.35,
+    "temperature_mexicocity": 6.2
+  },
+  {
+    "time": 165888.0,
+    "temperature_newyorkcity": -3.42,
+    "temperature_mexicocity": 6.11
+  },
+  {
+    "time": 166147.19999999998,
+    "temperature_newyorkcity": -3.49,
+    "temperature_mexicocity": 6.03
+  },
+  {
+    "time": 166406.4,
+    "temperature_newyorkcity": -3.56,
+    "temperature_mexicocity": 5.96
+  },
+  {
+    "time": 166665.6,
+    "temperature_newyorkcity": -3.62,
+    "temperature_mexicocity": 5.88
+  },
+  {
+    "time": 166924.8,
+    "temperature_newyorkcity": -3.69,
+    "temperature_mexicocity": 5.81
+  },
+  {
+    "time": 167184.0,
+    "temperature_newyorkcity": -3.75,
+    "temperature_mexicocity": 5.74
+  },
+  {
+    "time": 167443.19999999998,
+    "temperature_newyorkcity": -3.81,
+    "temperature_mexicocity": 5.67
+  },
+  {
+    "time": 167702.4,
+    "temperature_newyorkcity": -3.87,
+    "temperature_mexicocity": 5.61
+  },
+  {
+    "time": 167961.6,
+    "temperature_newyorkcity": -3.93,
+    "temperature_mexicocity": 5.55
+  },
+  {
+    "time": 168220.8,
+    "temperature_newyorkcity": -3.99,
+    "temperature_mexicocity": 5.49
+  },
+  {
+    "time": 168480.0,
+    "temperature_newyorkcity": -4.05,
+    "temperature_mexicocity": 5.44
+  },
+  {
+    "time": 168739.19999999998,
+    "temperature_newyorkcity": -4.1,
+    "temperature_mexicocity": 5.39
+  },
+  {
+    "time": 168998.4,
+    "temperature_newyorkcity": -4.15,
+    "temperature_mexicocity": 5.34
+  },
+  {
+    "time": 169257.6,
+    "temperature_newyorkcity": -4.2,
+    "temperature_mexicocity": 5.3
+  },
+  {
+    "time": 169516.8,
+    "temperature_newyorkcity": -4.25,
+    "temperature_mexicocity": 5.26
+  },
+  {
+    "time": 169776.0,
+    "temperature_newyorkcity": -4.3,
+    "temperature_mexicocity": 5.22
+  },
+  {
+    "time": 170035.19999999998,
+    "temperature_newyorkcity": -4.35,
+    "temperature_mexicocity": 5.18
+  },
+  {
+    "time": 170294.4,
+    "temperature_newyorkcity": -4.4,
+    "temperature_mexicocity": 5.15
+  },
+  {
+    "time": 170553.6,
+    "temperature_newyorkcity": -4.44,
+    "temperature_mexicocity": 5.12
+  },
+  {
+    "time": 170812.8,
+    "temperature_newyorkcity": -4.48,
+    "temperature_mexicocity": 5.09
+  },
+  {
+    "time": 171072.0,
+    "temperature_newyorkcity": -4.52,
+    "temperature_mexicocity": 5.07
+  },
+  {
+    "time": 171331.19999999998,
+    "temperature_newyorkcity": -4.56,
+    "temperature_mexicocity": 5.05
+  },
+  {
+    "time": 171590.4,
+    "temperature_newyorkcity": -4.6,
+    "temperature_mexicocity": 5.03
+  },
+  {
+    "time": 171849.6,
+    "temperature_newyorkcity": -4.64,
+    "temperature_mexicocity": 5.02
+  },
+  {
+    "time": 172108.8,
+    "temperature_newyorkcity": -4.67,
+    "temperature_mexicocity": 5.01
+  },
+  {
+    "time": 172368.0,
+    "temperature_newyorkcity": -4.7,
+    "temperature_mexicocity": 5.0
+  },
+  {
+    "time": 172627.19999999998,
+    "temperature_newyorkcity": -4.74,
+    "temperature_mexicocity": 5.0
+  },
+  {
+    "time": 172886.4,
+    "temperature_newyorkcity": -4.76,
+    "temperature_mexicocity": 5.0
+  },
+  {
+    "time": 173145.6,
+    "temperature_newyorkcity": -4.79,
+    "temperature_mexicocity": 5.0
+  },
+  {
+    "time": 173404.8,
+    "temperature_newyorkcity": -4.82,
+    "temperature_mexicocity": 5.01
+  },
+  {
+    "time": 173664.0,
+    "temperature_newyorkcity": -4.84,
+    "temperature_mexicocity": 5.02
+  },
+  {
+    "time": 173923.19999999998,
+    "temperature_newyorkcity": -4.87,
+    "temperature_mexicocity": 5.03
+  },
+  {
+    "time": 174182.4,
+    "temperature_newyorkcity": -4.89,
+    "temperature_mexicocity": 5.05
+  },
+  {
+    "time": 174441.6,
+    "temperature_newyorkcity": -4.91,
+    "temperature_mexicocity": 5.06
+  },
+  {
+    "time": 174700.8,
+    "temperature_newyorkcity": -4.92,
+    "temperature_mexicocity": 5.09
+  },
+  {
+    "time": 174960.0,
+    "temperature_newyorkcity": -4.94,
+    "temperature_mexicocity": 5.11
+  },
+  {
+    "time": 175219.19999999998,
+    "temperature_newyorkcity": -4.95,
+    "temperature_mexicocity": 5.14
+  },
+  {
+    "time": 175478.4,
+    "temperature_newyorkcity": -4.96,
+    "temperature_mexicocity": 5.17
+  },
+  {
+    "time": 175737.6,
+    "temperature_newyorkcity": -4.97,
+    "temperature_mexicocity": 5.2
+  },
+  {
+    "time": 175996.8,
+    "temperature_newyorkcity": -4.98,
+    "temperature_mexicocity": 5.24
+  },
+  {
+    "time": 176256.0,
+    "temperature_newyorkcity": -4.99,
+    "temperature_mexicocity": 5.28
+  },
+  {
+    "time": 176515.19999999998,
+    "temperature_newyorkcity": -5.0,
+    "temperature_mexicocity": 5.33
+  },
+  {
+    "time": 176774.4,
+    "temperature_newyorkcity": -5.0,
+    "temperature_mexicocity": 5.37
+  },
+  {
+    "time": 177033.6,
+    "temperature_newyorkcity": -5.0,
+    "temperature_mexicocity": 5.42
+  },
+  {
+    "time": 177292.8,
+    "temperature_newyorkcity": -5.0,
+    "temperature_mexicocity": 5.48
+  },
+  {
+    "time": 177552.0,
+    "temperature_newyorkcity": -5.0,
+    "temperature_mexicocity": 5.53
+  },
+  {
+    "time": 177811.19999999998,
+    "temperature_newyorkcity": -4.99,
+    "temperature_mexicocity": 5.59
+  },
+  {
+    "time": 178070.4,
+    "temperature_newyorkcity": -4.99,
+    "temperature_mexicocity": 5.65
+  },
+  {
+    "time": 178329.6,
+    "temperature_newyorkcity": -4.98,
+    "temperature_mexicocity": 5.72
+  },
+  {
+    "time": 178588.8,
+    "temperature_newyorkcity": -4.97,
+    "temperature_mexicocity": 5.79
+  },
+  {
+    "time": 178848.0,
+    "temperature_newyorkcity": -4.96,
+    "temperature_mexicocity": 5.86
+  },
+  {
+    "time": 179107.19999999998,
+    "temperature_newyorkcity": -4.95,
+    "temperature_mexicocity": 5.93
+  },
+  {
+    "time": 179366.4,
+    "temperature_newyorkcity": -4.93,
+    "temperature_mexicocity": 6.01
+  },
+  {
+    "time": 179625.6,
+    "temperature_newyorkcity": -4.92,
+    "temperature_mexicocity": 6.09
+  },
+  {
+    "time": 179884.8,
+    "temperature_newyorkcity": -4.9,
+    "temperature_mexicocity": 6.17
+  },
+  {
+    "time": 180144.0,
+    "temperature_newyorkcity": -4.88,
+    "temperature_mexicocity": 6.25
+  },
+  {
+    "time": 180403.19999999998,
+    "temperature_newyorkcity": -4.86,
+    "temperature_mexicocity": 6.34
+  },
+  {
+    "time": 180662.4,
+    "temperature_newyorkcity": -4.84,
+    "temperature_mexicocity": 6.43
+  },
+  {
+    "time": 180921.6,
+    "temperature_newyorkcity": -4.81,
+    "temperature_mexicocity": 6.52
+  },
+  {
+    "time": 181180.8,
+    "temperature_newyorkcity": -4.78,
+    "temperature_mexicocity": 6.62
+  },
+  {
+    "time": 181440.0,
+    "temperature_newyorkcity": -4.76,
+    "temperature_mexicocity": 6.72
+  },
+  {
+    "time": 181699.19999999998,
+    "temperature_newyorkcity": -4.73,
+    "temperature_mexicocity": 6.82
+  },
+  {
+    "time": 181958.4,
+    "temperature_newyorkcity": -4.69,
+    "temperature_mexicocity": 6.92
+  },
+  {
+    "time": 182217.6,
+    "temperature_newyorkcity": -4.66,
+    "temperature_mexicocity": 7.03
+  },
+  {
+    "time": 182476.8,
+    "temperature_newyorkcity": -4.63,
+    "temperature_mexicocity": 7.14
+  },
+  {
+    "time": 182736.0,
+    "temperature_newyorkcity": -4.59,
+    "temperature_mexicocity": 7.25
+  },
+  {
+    "time": 182995.19999999998,
+    "temperature_newyorkcity": -4.55,
+    "temperature_mexicocity": 7.36
+  },
+  {
+    "time": 183254.4,
+    "temperature_newyorkcity": -4.51,
+    "temperature_mexicocity": 7.48
+  },
+  {
+    "time": 183513.6,
+    "temperature_newyorkcity": -4.47,
+    "temperature_mexicocity": 7.6
+  },
+  {
+    "time": 183772.8,
+    "temperature_newyorkcity": -4.43,
+    "temperature_mexicocity": 7.72
+  },
+  {
+    "time": 184032.0,
+    "temperature_newyorkcity": -4.38,
+    "temperature_mexicocity": 7.84
+  },
+  {
+    "time": 184291.19999999998,
+    "temperature_newyorkcity": -4.34,
+    "temperature_mexicocity": 7.96
+  },
+  {
+    "time": 184550.4,
+    "temperature_newyorkcity": -4.29,
+    "temperature_mexicocity": 8.09
+  },
+  {
+    "time": 184809.6,
+    "temperature_newyorkcity": -4.24,
+    "temperature_mexicocity": 8.22
+  },
+  {
+    "time": 185068.8,
+    "temperature_newyorkcity": -4.19,
+    "temperature_mexicocity": 8.35
+  },
+  {
+    "time": 185328.0,
+    "temperature_newyorkcity": -4.14,
+    "temperature_mexicocity": 8.48
+  },
+  {
+    "time": 185587.19999999998,
+    "temperature_newyorkcity": -4.08,
+    "temperature_mexicocity": 8.62
+  },
+  {
+    "time": 185846.4,
+    "temperature_newyorkcity": -4.03,
+    "temperature_mexicocity": 8.76
+  },
+  {
+    "time": 186105.6,
+    "temperature_newyorkcity": -3.97,
+    "temperature_mexicocity": 8.89
+  },
+  {
+    "time": 186364.8,
+    "temperature_newyorkcity": -3.91,
+    "temperature_mexicocity": 9.04
+  },
+  {
+    "time": 186624.0,
+    "temperature_newyorkcity": -3.85,
+    "temperature_mexicocity": 9.18
+  },
+  {
+    "time": 186883.19999999998,
+    "temperature_newyorkcity": -3.79,
+    "temperature_mexicocity": 9.32
+  },
+  {
+    "time": 187142.4,
+    "temperature_newyorkcity": -3.73,
+    "temperature_mexicocity": 9.47
+  },
+  {
+    "time": 187401.6,
+    "temperature_newyorkcity": -3.67,
+    "temperature_mexicocity": 9.61
+  },
+  {
+    "time": 187660.8,
+    "temperature_newyorkcity": -3.6,
+    "temperature_mexicocity": 9.76
+  },
+  {
+    "time": 187920.0,
+    "temperature_newyorkcity": -3.54,
+    "temperature_mexicocity": 9.91
+  },
+  {
+    "time": 188179.19999999998,
+    "temperature_newyorkcity": -3.47,
+    "temperature_mexicocity": 10.07
+  },
+  {
+    "time": 188438.4,
+    "temperature_newyorkcity": -3.4,
+    "temperature_mexicocity": 10.22
+  },
+  {
+    "time": 188697.6,
+    "temperature_newyorkcity": -3.33,
+    "temperature_mexicocity": 10.37
+  },
+  {
+    "time": 188956.8,
+    "temperature_newyorkcity": -3.26,
+    "temperature_mexicocity": 10.53
+  },
+  {
+    "time": 189216.0,
+    "temperature_newyorkcity": -3.19,
+    "temperature_mexicocity": 10.69
+  },
+  {
+    "time": 189475.19999999998,
+    "temperature_newyorkcity": -3.11,
+    "temperature_mexicocity": 10.85
+  },
+  {
+    "time": 189734.4,
+    "temperature_newyorkcity": -3.04,
+    "temperature_mexicocity": 11.0
+  },
+  {
+    "time": 189993.6,
+    "temperature_newyorkcity": -2.96,
+    "temperature_mexicocity": 11.17
+  },
+  {
+    "time": 190252.8,
+    "temperature_newyorkcity": -2.89,
+    "temperature_mexicocity": 11.33
+  },
+  {
+    "time": 190512.0,
+    "temperature_newyorkcity": -2.81,
+    "temperature_mexicocity": 11.49
+  },
+  {
+    "time": 190771.19999999998,
+    "temperature_newyorkcity": -2.73,
+    "temperature_mexicocity": 11.65
+  },
+  {
+    "time": 191030.4,
+    "temperature_newyorkcity": -2.65,
+    "temperature_mexicocity": 11.82
+  },
+  {
+    "time": 191289.6,
+    "temperature_newyorkcity": -2.57,
+    "temperature_mexicocity": 11.98
+  },
+  {
+    "time": 191548.8,
+    "temperature_newyorkcity": -2.49,
+    "temperature_mexicocity": 12.15
+  },
+  {
+    "time": 191808.0,
+    "temperature_newyorkcity": -2.41,
+    "temperature_mexicocity": 12.31
+  },
+  {
+    "time": 192067.19999999998,
+    "temperature_newyorkcity": -2.33,
+    "temperature_mexicocity": 12.48
+  },
+  {
+    "time": 192326.4,
+    "temperature_newyorkcity": -2.24,
+    "temperature_mexicocity": 12.65
+  },
+  {
+    "time": 192585.6,
+    "temperature_newyorkcity": -2.16,
+    "temperature_mexicocity": 12.82
+  },
+  {
+    "time": 192844.8,
+    "temperature_newyorkcity": -2.07,
+    "temperature_mexicocity": 12.98
+  },
+  {
+    "time": 193104.0,
+    "temperature_newyorkcity": -1.99,
+    "temperature_mexicocity": 13.15
+  },
+  {
+    "time": 193363.19999999998,
+    "temperature_newyorkcity": -1.9,
+    "temperature_mexicocity": 13.32
+  },
+  {
+    "time": 193622.4,
+    "temperature_newyorkcity": -1.81,
+    "temperature_mexicocity": 13.49
+  },
+  {
+    "time": 193881.6,
+    "temperature_newyorkcity": -1.72,
+    "temperature_mexicocity": 13.66
+  },
+  {
+    "time": 194140.8,
+    "temperature_newyorkcity": -1.63,
+    "temperature_mexicocity": 13.83
+  },
+  {
+    "time": 194400.0,
+    "temperature_newyorkcity": -1.55,
+    "temperature_mexicocity": 14.0
+  },
+  {
+    "time": 194659.19999999998,
+    "temperature_newyorkcity": -1.46,
+    "temperature_mexicocity": 14.17
+  },
+  {
+    "time": 194918.4,
+    "temperature_newyorkcity": -1.36,
+    "temperature_mexicocity": 14.34
+  },
+  {
+    "time": 195177.6,
+    "temperature_newyorkcity": -1.27,
+    "temperature_mexicocity": 14.51
+  },
+  {
+    "time": 195436.8,
+    "temperature_newyorkcity": -1.18,
+    "temperature_mexicocity": 14.68
+  },
+  {
+    "time": 195696.0,
+    "temperature_newyorkcity": -1.09,
+    "temperature_mexicocity": 14.85
+  },
+  {
+    "time": 195955.19999999998,
+    "temperature_newyorkcity": -1.0,
+    "temperature_mexicocity": 15.02
+  },
+  {
+    "time": 196214.4,
+    "temperature_newyorkcity": -0.91,
+    "temperature_mexicocity": 15.18
+  },
+  {
+    "time": 196473.6,
+    "temperature_newyorkcity": -0.81,
+    "temperature_mexicocity": 15.35
+  },
+  {
+    "time": 196732.8,
+    "temperature_newyorkcity": -0.72,
+    "temperature_mexicocity": 15.52
+  },
+  {
+    "time": 196992.0,
+    "temperature_newyorkcity": -0.63,
+    "temperature_mexicocity": 15.69
+  },
+  {
+    "time": 197251.19999999998,
+    "temperature_newyorkcity": -0.53,
+    "temperature_mexicocity": 15.85
+  },
+  {
+    "time": 197510.4,
+    "temperature_newyorkcity": -0.44,
+    "temperature_mexicocity": 16.02
+  },
+  {
+    "time": 197769.6,
+    "temperature_newyorkcity": -0.35,
+    "temperature_mexicocity": 16.18
+  },
+  {
+    "time": 198028.8,
+    "temperature_newyorkcity": -0.25,
+    "temperature_mexicocity": 16.35
+  },
+  {
+    "time": 198288.0,
+    "temperature_newyorkcity": -0.16,
+    "temperature_mexicocity": 16.51
+  },
+  {
+    "time": 198547.19999999998,
+    "temperature_newyorkcity": -0.06,
+    "temperature_mexicocity": 16.67
+  },
+  {
+    "time": 198806.4,
+    "temperature_newyorkcity": 0.03,
+    "temperature_mexicocity": 16.83
+  },
+  {
+    "time": 199065.59999999998,
+    "temperature_newyorkcity": 0.13,
+    "temperature_mexicocity": 17.0
+  },
+  {
+    "time": 199324.8,
+    "temperature_newyorkcity": 0.22,
+    "temperature_mexicocity": 17.15
+  },
+  {
+    "time": 199584.0,
+    "temperature_newyorkcity": 0.31,
+    "temperature_mexicocity": 17.31
+  },
+  {
+    "time": 199843.19999999998,
+    "temperature_newyorkcity": 0.41,
+    "temperature_mexicocity": 17.47
+  },
+  {
+    "time": 200102.4,
+    "temperature_newyorkcity": 0.5,
+    "temperature_mexicocity": 17.63
+  },
+  {
+    "time": 200361.59999999998,
+    "temperature_newyorkcity": 0.6,
+    "temperature_mexicocity": 17.78
+  },
+  {
+    "time": 200620.8,
+    "temperature_newyorkcity": 0.69,
+    "temperature_mexicocity": 17.93
+  },
+  {
+    "time": 200880.0,
+    "temperature_newyorkcity": 0.78,
+    "temperature_mexicocity": 18.09
+  },
+  {
+    "time": 201139.19999999998,
+    "temperature_newyorkcity": 0.88,
+    "temperature_mexicocity": 18.24
+  },
+  {
+    "time": 201398.4,
+    "temperature_newyorkcity": 0.97,
+    "temperature_mexicocity": 18.39
+  },
+  {
+    "time": 201657.59999999998,
+    "temperature_newyorkcity": 1.06,
+    "temperature_mexicocity": 18.53
+  },
+  {
+    "time": 201916.8,
+    "temperature_newyorkcity": 1.15,
+    "temperature_mexicocity": 18.68
+  },
+  {
+    "time": 202176.0,
+    "temperature_newyorkcity": 1.24,
+    "temperature_mexicocity": 18.82
+  },
+  {
+    "time": 202435.19999999998,
+    "temperature_newyorkcity": 1.33,
+    "temperature_mexicocity": 18.96
+  },
+  {
+    "time": 202694.4,
+    "temperature_newyorkcity": 1.43,
+    "temperature_mexicocity": 19.11
+  },
+  {
+    "time": 202953.59999999998,
+    "temperature_newyorkcity": 1.52,
+    "temperature_mexicocity": 19.24
+  },
+  {
+    "time": 203212.8,
+    "temperature_newyorkcity": 1.6,
+    "temperature_mexicocity": 19.38
+  },
+  {
+    "time": 203472.0,
+    "temperature_newyorkcity": 1.69,
+    "temperature_mexicocity": 19.52
+  },
+  {
+    "time": 203731.19999999998,
+    "temperature_newyorkcity": 1.78,
+    "temperature_mexicocity": 19.65
+  },
+  {
+    "time": 203990.4,
+    "temperature_newyorkcity": 1.87,
+    "temperature_mexicocity": 19.78
+  },
+  {
+    "time": 204249.59999999998,
+    "temperature_newyorkcity": 1.96,
+    "temperature_mexicocity": 19.91
+  },
+  {
+    "time": 204508.8,
+    "temperature_newyorkcity": 2.04,
+    "temperature_mexicocity": 20.04
+  },
+  {
+    "time": 204768.0,
+    "temperature_newyorkcity": 2.13,
+    "temperature_mexicocity": 20.16
+  },
+  {
+    "time": 205027.19999999998,
+    "temperature_newyorkcity": 2.21,
+    "temperature_mexicocity": 20.28
+  },
+  {
+    "time": 205286.4,
+    "temperature_newyorkcity": 2.3,
+    "temperature_mexicocity": 20.4
+  },
+  {
+    "time": 205545.59999999998,
+    "temperature_newyorkcity": 2.38,
+    "temperature_mexicocity": 20.52
+  },
+  {
+    "time": 205804.8,
+    "temperature_newyorkcity": 2.46,
+    "temperature_mexicocity": 20.64
+  },
+  {
+    "time": 206064.0,
+    "temperature_newyorkcity": 2.55,
+    "temperature_mexicocity": 20.75
+  },
+  {
+    "time": 206323.19999999998,
+    "temperature_newyorkcity": 2.63,
+    "temperature_mexicocity": 20.86
+  },
+  {
+    "time": 206582.4,
+    "temperature_newyorkcity": 2.71,
+    "temperature_mexicocity": 20.97
+  },
+  {
+    "time": 206841.59999999998,
+    "temperature_newyorkcity": 2.78,
+    "temperature_mexicocity": 21.08
+  },
+  {
+    "time": 207100.8,
+    "temperature_newyorkcity": 2.86,
+    "temperature_mexicocity": 21.18
+  },
+  {
+    "time": 207360.0,
+    "temperature_newyorkcity": 2.94,
+    "temperature_mexicocity": 21.28
+  },
+  {
+    "time": 207619.19999999998,
+    "temperature_newyorkcity": 3.01,
+    "temperature_mexicocity": 21.38
+  },
+  {
+    "time": 207878.4,
+    "temperature_newyorkcity": 3.09,
+    "temperature_mexicocity": 21.48
+  },
+  {
+    "time": 208137.59999999998,
+    "temperature_newyorkcity": 3.16,
+    "temperature_mexicocity": 21.57
+  },
+  {
+    "time": 208396.8,
+    "temperature_newyorkcity": 3.24,
+    "temperature_mexicocity": 21.66
+  },
+  {
+    "time": 208656.0,
+    "temperature_newyorkcity": 3.31,
+    "temperature_mexicocity": 21.75
+  },
+  {
+    "time": 208915.19999999998,
+    "temperature_newyorkcity": 3.38,
+    "temperature_mexicocity": 21.83
+  },
+  {
+    "time": 209174.4,
+    "temperature_newyorkcity": 3.45,
+    "temperature_mexicocity": 21.91
+  },
+  {
+    "time": 209433.59999999998,
+    "temperature_newyorkcity": 3.51,
+    "temperature_mexicocity": 21.99
+  },
+  {
+    "time": 209692.8,
+    "temperature_newyorkcity": 3.58,
+    "temperature_mexicocity": 22.07
+  },
+  {
+    "time": 209952.0,
+    "temperature_newyorkcity": 3.64,
+    "temperature_mexicocity": 22.14
+  },
+  {
+    "time": 210211.19999999998,
+    "temperature_newyorkcity": 3.71,
+    "temperature_mexicocity": 22.21
+  },
+  {
+    "time": 210470.4,
+    "temperature_newyorkcity": 3.77,
+    "temperature_mexicocity": 22.28
+  },
+  {
+    "time": 210729.59999999998,
+    "temperature_newyorkcity": 3.83,
+    "temperature_mexicocity": 22.35
+  },
+  {
+    "time": 210988.8,
+    "temperature_newyorkcity": 3.89,
+    "temperature_mexicocity": 22.41
+  },
+  {
+    "time": 211248.0,
+    "temperature_newyorkcity": 3.95,
+    "temperature_mexicocity": 22.47
+  },
+  {
+    "time": 211507.19999999998,
+    "temperature_newyorkcity": 4.01,
+    "temperature_mexicocity": 22.52
+  },
+  {
+    "time": 211766.4,
+    "temperature_newyorkcity": 4.06,
+    "temperature_mexicocity": 22.58
+  },
+  {
+    "time": 212025.59999999998,
+    "temperature_newyorkcity": 4.12,
+    "temperature_mexicocity": 22.63
+  },
+  {
+    "time": 212284.8,
+    "temperature_newyorkcity": 4.17,
+    "temperature_mexicocity": 22.67
+  },
+  {
+    "time": 212544.0,
+    "temperature_newyorkcity": 4.22,
+    "temperature_mexicocity": 22.72
+  },
+  {
+    "time": 212803.19999999998,
+    "temperature_newyorkcity": 4.27,
+    "temperature_mexicocity": 22.76
+  },
+  {
+    "time": 213062.4,
+    "temperature_newyorkcity": 4.32,
+    "temperature_mexicocity": 22.8
+  },
+  {
+    "time": 213321.59999999998,
+    "temperature_newyorkcity": 4.37,
+    "temperature_mexicocity": 22.83
+  },
+  {
+    "time": 213580.8,
+    "temperature_newyorkcity": 4.41,
+    "temperature_mexicocity": 22.86
+  },
+  {
+    "time": 213840.0,
+    "temperature_newyorkcity": 4.46,
+    "temperature_mexicocity": 22.89
+  },
+  {
+    "time": 214099.19999999998,
+    "temperature_newyorkcity": 4.5,
+    "temperature_mexicocity": 22.91
+  },
+  {
+    "time": 214358.4,
+    "temperature_newyorkcity": 4.54,
+    "temperature_mexicocity": 22.94
+  },
+  {
+    "time": 214617.59999999998,
+    "temperature_newyorkcity": 4.58,
+    "temperature_mexicocity": 22.95
+  },
+  {
+    "time": 214876.8,
+    "temperature_newyorkcity": 4.61,
+    "temperature_mexicocity": 22.97
+  },
+  {
+    "time": 215136.0,
+    "temperature_newyorkcity": 4.65,
+    "temperature_mexicocity": 22.98
+  },
+  {
+    "time": 215395.19999999998,
+    "temperature_newyorkcity": 4.68,
+    "temperature_mexicocity": 22.99
+  },
+  {
+    "time": 215654.4,
+    "temperature_newyorkcity": 4.71,
+    "temperature_mexicocity": 23.0
+  },
+  {
+    "time": 215913.59999999998,
+    "temperature_newyorkcity": 4.75,
+    "temperature_mexicocity": 23.0
+  },
+  {
+    "time": 216172.8,
+    "temperature_newyorkcity": 4.77,
+    "temperature_mexicocity": 23.0
+  },
+  {
+    "time": 216432.0,
+    "temperature_newyorkcity": 4.8,
+    "temperature_mexicocity": 23.0
+  },
+  {
+    "time": 216691.19999999998,
+    "temperature_newyorkcity": 4.83,
+    "temperature_mexicocity": 22.99
+  },
+  {
+    "time": 216950.4,
+    "temperature_newyorkcity": 4.85,
+    "temperature_mexicocity": 22.98
+  },
+  {
+    "time": 217209.59999999998,
+    "temperature_newyorkcity": 4.87,
+    "temperature_mexicocity": 22.97
+  },
+  {
+    "time": 217468.8,
+    "temperature_newyorkcity": 4.89,
+    "temperature_mexicocity": 22.95
+  },
+  {
+    "time": 217728.0,
+    "temperature_newyorkcity": 4.91,
+    "temperature_mexicocity": 22.93
+  },
+  {
+    "time": 217987.19999999998,
+    "temperature_newyorkcity": 4.93,
+    "temperature_mexicocity": 22.91
+  },
+  {
+    "time": 218246.4,
+    "temperature_newyorkcity": 4.94,
+    "temperature_mexicocity": 22.88
+  },
+  {
+    "time": 218505.59999999998,
+    "temperature_newyorkcity": 4.96,
+    "temperature_mexicocity": 22.85
+  },
+  {
+    "time": 218764.8,
+    "temperature_newyorkcity": 4.97,
+    "temperature_mexicocity": 22.82
+  },
+  {
+    "time": 219024.0,
+    "temperature_newyorkcity": 4.98,
+    "temperature_mexicocity": 22.78
+  },
+  {
+    "time": 219283.19999999998,
+    "temperature_newyorkcity": 4.99,
+    "temperature_mexicocity": 22.74
+  },
+  {
+    "time": 219542.4,
+    "temperature_newyorkcity": 4.99,
+    "temperature_mexicocity": 22.7
+  },
+  {
+    "time": 219801.59999999998,
+    "temperature_newyorkcity": 5.0,
+    "temperature_mexicocity": 22.66
+  },
+  {
+    "time": 220060.8,
+    "temperature_newyorkcity": 5.0,
+    "temperature_mexicocity": 22.61
+  },
+  {
+    "time": 220320.0,
+    "temperature_newyorkcity": 5.0,
+    "temperature_mexicocity": 22.56
+  },
+  {
+    "time": 220579.19999999998,
+    "temperature_newyorkcity": 5.0,
+    "temperature_mexicocity": 22.51
+  },
+  {
+    "time": 220838.4,
+    "temperature_newyorkcity": 5.0,
+    "temperature_mexicocity": 22.45
+  },
+  {
+    "time": 221097.59999999998,
+    "temperature_newyorkcity": 4.99,
+    "temperature_mexicocity": 22.39
+  },
+  {
+    "time": 221356.8,
+    "temperature_newyorkcity": 4.99,
+    "temperature_mexicocity": 22.33
+  },
+  {
+    "time": 221616.0,
+    "temperature_newyorkcity": 4.98,
+    "temperature_mexicocity": 22.26
+  },
+  {
+    "time": 221875.19999999998,
+    "temperature_newyorkcity": 4.97,
+    "temperature_mexicocity": 22.19
+  },
+  {
+    "time": 222134.4,
+    "temperature_newyorkcity": 4.96,
+    "temperature_mexicocity": 22.12
+  },
+  {
+    "time": 222393.59999999998,
+    "temperature_newyorkcity": 4.94,
+    "temperature_mexicocity": 22.04
+  },
+  {
+    "time": 222652.8,
+    "temperature_newyorkcity": 4.93,
+    "temperature_mexicocity": 21.97
+  },
+  {
+    "time": 222912.0,
+    "temperature_newyorkcity": 4.91,
+    "temperature_mexicocity": 21.89
+  },
+  {
+    "time": 223171.19999999998,
+    "temperature_newyorkcity": 4.89,
+    "temperature_mexicocity": 21.8
+  },
+  {
+    "time": 223430.4,
+    "temperature_newyorkcity": 4.87,
+    "temperature_mexicocity": 21.72
+  },
+  {
+    "time": 223689.59999999998,
+    "temperature_newyorkcity": 4.85,
+    "temperature_mexicocity": 21.63
+  },
+  {
+    "time": 223948.8,
+    "temperature_newyorkcity": 4.83,
+    "temperature_mexicocity": 21.54
+  },
+  {
+    "time": 224208.0,
+    "temperature_newyorkcity": 4.8,
+    "temperature_mexicocity": 21.44
+  },
+  {
+    "time": 224467.19999999998,
+    "temperature_newyorkcity": 4.77,
+    "temperature_mexicocity": 21.35
+  },
+  {
+    "time": 224726.4,
+    "temperature_newyorkcity": 4.75,
+    "temperature_mexicocity": 21.25
+  },
+  {
+    "time": 224985.59999999998,
+    "temperature_newyorkcity": 4.71,
+    "temperature_mexicocity": 21.15
+  },
+  {
+    "time": 225244.8,
+    "temperature_newyorkcity": 4.68,
+    "temperature_mexicocity": 21.04
+  },
+  {
+    "time": 225504.0,
+    "temperature_newyorkcity": 4.65,
+    "temperature_mexicocity": 20.93
+  },
+  {
+    "time": 225763.19999999998,
+    "temperature_newyorkcity": 4.61,
+    "temperature_mexicocity": 20.83
+  },
+  {
+    "time": 226022.4,
+    "temperature_newyorkcity": 4.58,
+    "temperature_mexicocity": 20.71
+  },
+  {
+    "time": 226281.59999999998,
+    "temperature_newyorkcity": 4.54,
+    "temperature_mexicocity": 20.6
+  },
+  {
+    "time": 226540.8,
+    "temperature_newyorkcity": 4.5,
+    "temperature_mexicocity": 20.48
+  },
+  {
+    "time": 226800.0,
+    "temperature_newyorkcity": 4.46,
+    "temperature_mexicocity": 20.36
+  },
+  {
+    "time": 227059.19999999998,
+    "temperature_newyorkcity": 4.41,
+    "temperature_mexicocity": 20.24
+  },
+  {
+    "time": 227318.4,
+    "temperature_newyorkcity": 4.37,
+    "temperature_mexicocity": 20.12
+  },
+  {
+    "time": 227577.59999999998,
+    "temperature_newyorkcity": 4.32,
+    "temperature_mexicocity": 19.99
+  },
+  {
+    "time": 227836.8,
+    "temperature_newyorkcity": 4.27,
+    "temperature_mexicocity": 19.87
+  },
+  {
+    "time": 228096.0,
+    "temperature_newyorkcity": 4.22,
+    "temperature_mexicocity": 19.74
+  },
+  {
+    "time": 228355.19999999998,
+    "temperature_newyorkcity": 4.17,
+    "temperature_mexicocity": 19.61
+  },
+  {
+    "time": 228614.4,
+    "temperature_newyorkcity": 4.12,
+    "temperature_mexicocity": 19.47
+  },
+  {
+    "time": 228873.59999999998,
+    "temperature_newyorkcity": 4.06,
+    "temperature_mexicocity": 19.34
+  },
+  {
+    "time": 229132.8,
+    "temperature_newyorkcity": 4.01,
+    "temperature_mexicocity": 19.2
+  },
+  {
+    "time": 229392.0,
+    "temperature_newyorkcity": 3.95,
+    "temperature_mexicocity": 19.06
+  },
+  {
+    "time": 229651.19999999998,
+    "temperature_newyorkcity": 3.89,
+    "temperature_mexicocity": 18.92
+  },
+  {
+    "time": 229910.4,
+    "temperature_newyorkcity": 3.83,
+    "temperature_mexicocity": 18.77
+  },
+  {
+    "time": 230169.59999999998,
+    "temperature_newyorkcity": 3.77,
+    "temperature_mexicocity": 18.63
+  },
+  {
+    "time": 230428.8,
+    "temperature_newyorkcity": 3.71,
+    "temperature_mexicocity": 18.48
+  },
+  {
+    "time": 230688.0,
+    "temperature_newyorkcity": 3.64,
+    "temperature_mexicocity": 18.34
+  },
+  {
+    "time": 230947.19999999998,
+    "temperature_newyorkcity": 3.58,
+    "temperature_mexicocity": 18.19
+  },
+  {
+    "time": 231206.4,
+    "temperature_newyorkcity": 3.51,
+    "temperature_mexicocity": 18.04
+  },
+  {
+    "time": 231465.59999999998,
+    "temperature_newyorkcity": 3.45,
+    "temperature_mexicocity": 17.88
+  },
+  {
+    "time": 231724.8,
+    "temperature_newyorkcity": 3.38,
+    "temperature_mexicocity": 17.73
+  },
+  {
+    "time": 231984.0,
+    "temperature_newyorkcity": 3.31,
+    "temperature_mexicocity": 17.57
+  },
+  {
+    "time": 232243.19999999998,
+    "temperature_newyorkcity": 3.24,
+    "temperature_mexicocity": 17.42
+  },
+  {
+    "time": 232502.4,
+    "temperature_newyorkcity": 3.16,
+    "temperature_mexicocity": 17.26
+  },
+  {
+    "time": 232761.59999999998,
+    "temperature_newyorkcity": 3.09,
+    "temperature_mexicocity": 17.1
+  },
+  {
+    "time": 233020.8,
+    "temperature_newyorkcity": 3.01,
+    "temperature_mexicocity": 16.94
+  },
+  {
+    "time": 233280.0,
+    "temperature_newyorkcity": 2.94,
+    "temperature_mexicocity": 16.78
+  },
+  {
+    "time": 233539.19999999998,
+    "temperature_newyorkcity": 2.86,
+    "temperature_mexicocity": 16.62
+  },
+  {
+    "time": 233798.4,
+    "temperature_newyorkcity": 2.78,
+    "temperature_mexicocity": 16.46
+  },
+  {
+    "time": 234057.59999999998,
+    "temperature_newyorkcity": 2.71,
+    "temperature_mexicocity": 16.29
+  },
+  {
+    "time": 234316.8,
+    "temperature_newyorkcity": 2.63,
+    "temperature_mexicocity": 16.13
+  },
+  {
+    "time": 234576.0,
+    "temperature_newyorkcity": 2.55,
+    "temperature_mexicocity": 15.96
+  },
+  {
+    "time": 234835.19999999998,
+    "temperature_newyorkcity": 2.46,
+    "temperature_mexicocity": 15.8
+  },
+  {
+    "time": 235094.4,
+    "temperature_newyorkcity": 2.38,
+    "temperature_mexicocity": 15.63
+  },
+  {
+    "time": 235353.59999999998,
+    "temperature_newyorkcity": 2.3,
+    "temperature_mexicocity": 15.46
+  },
+  {
+    "time": 235612.8,
+    "temperature_newyorkcity": 2.21,
+    "temperature_mexicocity": 15.3
+  },
+  {
+    "time": 235872.0,
+    "temperature_newyorkcity": 2.13,
+    "temperature_mexicocity": 15.13
+  },
+  {
+    "time": 236131.19999999998,
+    "temperature_newyorkcity": 2.04,
+    "temperature_mexicocity": 14.96
+  },
+  {
+    "time": 236390.4,
+    "temperature_newyorkcity": 1.96,
+    "temperature_mexicocity": 14.79
+  },
+  {
+    "time": 236649.59999999998,
+    "temperature_newyorkcity": 1.87,
+    "temperature_mexicocity": 14.62
+  },
+  {
+    "time": 236908.8,
+    "temperature_newyorkcity": 1.78,
+    "temperature_mexicocity": 14.45
+  },
+  {
+    "time": 237168.0,
+    "temperature_newyorkcity": 1.69,
+    "temperature_mexicocity": 14.28
+  },
+  {
+    "time": 237427.19999999998,
+    "temperature_newyorkcity": 1.6,
+    "temperature_mexicocity": 14.11
+  },
+  {
+    "time": 237686.4,
+    "temperature_newyorkcity": 1.52,
+    "temperature_mexicocity": 13.94
+  },
+  {
+    "time": 237945.59999999998,
+    "temperature_newyorkcity": 1.43,
+    "temperature_mexicocity": 13.77
+  },
+  {
+    "time": 238204.8,
+    "temperature_newyorkcity": 1.33,
+    "temperature_mexicocity": 13.6
+  },
+  {
+    "time": 238464.0,
+    "temperature_newyorkcity": 1.24,
+    "temperature_mexicocity": 13.43
+  },
+  {
+    "time": 238723.19999999998,
+    "temperature_newyorkcity": 1.15,
+    "temperature_mexicocity": 13.27
+  },
+  {
+    "time": 238982.4,
+    "temperature_newyorkcity": 1.06,
+    "temperature_mexicocity": 13.1
+  },
+  {
+    "time": 239241.59999999998,
+    "temperature_newyorkcity": 0.97,
+    "temperature_mexicocity": 12.93
+  },
+  {
+    "time": 239500.8,
+    "temperature_newyorkcity": 0.88,
+    "temperature_mexicocity": 12.76
+  },
+  {
+    "time": 239760.0,
+    "temperature_newyorkcity": 0.78,
+    "temperature_mexicocity": 12.59
+  },
+  {
+    "time": 240019.19999999998,
+    "temperature_newyorkcity": 0.69,
+    "temperature_mexicocity": 12.42
+  },
+  {
+    "time": 240278.4,
+    "temperature_newyorkcity": 0.6,
+    "temperature_mexicocity": 12.26
+  },
+  {
+    "time": 240537.59999999998,
+    "temperature_newyorkcity": 0.5,
+    "temperature_mexicocity": 12.09
+  },
+  {
+    "time": 240796.8,
+    "temperature_newyorkcity": 0.41,
+    "temperature_mexicocity": 11.93
+  },
+  {
+    "time": 241056.0,
+    "temperature_newyorkcity": 0.31,
+    "temperature_mexicocity": 11.76
+  },
+  {
+    "time": 241315.19999999998,
+    "temperature_newyorkcity": 0.22,
+    "temperature_mexicocity": 11.6
+  },
+  {
+    "time": 241574.4,
+    "temperature_newyorkcity": 0.13,
+    "temperature_mexicocity": 11.43
+  },
+  {
+    "time": 241833.59999999998,
+    "temperature_newyorkcity": 0.03,
+    "temperature_mexicocity": 11.27
+  },
+  {
+    "time": 242092.8,
+    "temperature_newyorkcity": -0.06,
+    "temperature_mexicocity": 11.11
+  },
+  {
+    "time": 242352.0,
+    "temperature_newyorkcity": -0.16,
+    "temperature_mexicocity": 10.95
+  },
+  {
+    "time": 242611.19999999998,
+    "temperature_newyorkcity": -0.25,
+    "temperature_mexicocity": 10.79
+  },
+  {
+    "time": 242870.4,
+    "temperature_newyorkcity": -0.35,
+    "temperature_mexicocity": 10.63
+  },
+  {
+    "time": 243129.59999999998,
+    "temperature_newyorkcity": -0.44,
+    "temperature_mexicocity": 10.48
+  },
+  {
+    "time": 243388.8,
+    "temperature_newyorkcity": -0.53,
+    "temperature_mexicocity": 10.32
+  },
+  {
+    "time": 243648.0,
+    "temperature_newyorkcity": -0.63,
+    "temperature_mexicocity": 10.17
+  },
+  {
+    "time": 243907.19999999998,
+    "temperature_newyorkcity": -0.72,
+    "temperature_mexicocity": 10.02
+  },
+  {
+    "time": 244166.4,
+    "temperature_newyorkcity": -0.81,
+    "temperature_mexicocity": 9.86
+  },
+  {
+    "time": 244425.59999999998,
+    "temperature_newyorkcity": -0.91,
+    "temperature_mexicocity": 9.71
+  },
+  {
+    "time": 244684.8,
+    "temperature_newyorkcity": -1.0,
+    "temperature_mexicocity": 9.57
+  },
+  {
+    "time": 244944.0,
+    "temperature_newyorkcity": -1.09,
+    "temperature_mexicocity": 9.42
+  },
+  {
+    "time": 245203.19999999998,
+    "temperature_newyorkcity": -1.18,
+    "temperature_mexicocity": 9.27
+  },
+  {
+    "time": 245462.4,
+    "temperature_newyorkcity": -1.27,
+    "temperature_mexicocity": 9.13
+  },
+  {
+    "time": 245721.59999999998,
+    "temperature_newyorkcity": -1.36,
+    "temperature_mexicocity": 8.99
+  },
+  {
+    "time": 245980.8,
+    "temperature_newyorkcity": -1.46,
+    "temperature_mexicocity": 8.85
+  },
+  {
+    "time": 246240.0,
+    "temperature_newyorkcity": -1.55,
+    "temperature_mexicocity": 8.71
+  },
+  {
+    "time": 246499.19999999998,
+    "temperature_newyorkcity": -1.63,
+    "temperature_mexicocity": 8.57
+  },
+  {
+    "time": 246758.4,
+    "temperature_newyorkcity": -1.72,
+    "temperature_mexicocity": 8.44
+  },
+  {
+    "time": 247017.59999999998,
+    "temperature_newyorkcity": -1.81,
+    "temperature_mexicocity": 8.31
+  },
+  {
+    "time": 247276.8,
+    "temperature_newyorkcity": -1.9,
+    "temperature_mexicocity": 8.18
+  },
+  {
+    "time": 247536.0,
+    "temperature_newyorkcity": -1.99,
+    "temperature_mexicocity": 8.05
+  },
+  {
+    "time": 247795.19999999998,
+    "temperature_newyorkcity": -2.07,
+    "temperature_mexicocity": 7.92
+  },
+  {
+    "time": 248054.4,
+    "temperature_newyorkcity": -2.16,
+    "temperature_mexicocity": 7.8
+  },
+  {
+    "time": 248313.59999999998,
+    "temperature_newyorkcity": -2.24,
+    "temperature_mexicocity": 7.68
+  },
+  {
+    "time": 248572.8,
+    "temperature_newyorkcity": -2.33,
+    "temperature_mexicocity": 7.56
+  },
+  {
+    "time": 248832.0,
+    "temperature_newyorkcity": -2.41,
+    "temperature_mexicocity": 7.44
+  },
+  {
+    "time": 249091.19999999998,
+    "temperature_newyorkcity": -2.49,
+    "temperature_mexicocity": 7.32
+  },
+  {
+    "time": 249350.4,
+    "temperature_newyorkcity": -2.57,
+    "temperature_mexicocity": 7.21
+  },
+  {
+    "time": 249609.59999999998,
+    "temperature_newyorkcity": -2.65,
+    "temperature_mexicocity": 7.1
+  },
+  {
+    "time": 249868.8,
+    "temperature_newyorkcity": -2.73,
+    "temperature_mexicocity": 6.99
+  },
+  {
+    "time": 250128.0,
+    "temperature_newyorkcity": -2.81,
+    "temperature_mexicocity": 6.89
+  },
+  {
+    "time": 250387.19999999998,
+    "temperature_newyorkcity": -2.89,
+    "temperature_mexicocity": 6.79
+  },
+  {
+    "time": 250646.4,
+    "temperature_newyorkcity": -2.96,
+    "temperature_mexicocity": 6.69
+  },
+  {
+    "time": 250905.59999999998,
+    "temperature_newyorkcity": -3.04,
+    "temperature_mexicocity": 6.59
+  },
+  {
+    "time": 251164.8,
+    "temperature_newyorkcity": -3.11,
+    "temperature_mexicocity": 6.49
+  },
+  {
+    "time": 251424.0,
+    "temperature_newyorkcity": -3.19,
+    "temperature_mexicocity": 6.4
+  },
+  {
+    "time": 251683.19999999998,
+    "temperature_newyorkcity": -3.26,
+    "temperature_mexicocity": 6.31
+  },
+  {
+    "time": 251942.4,
+    "temperature_newyorkcity": -3.33,
+    "temperature_mexicocity": 6.22
+  },
+  {
+    "time": 252201.59999999998,
+    "temperature_newyorkcity": -3.4,
+    "temperature_mexicocity": 6.14
+  },
+  {
+    "time": 252460.8,
+    "temperature_newyorkcity": -3.47,
+    "temperature_mexicocity": 6.06
+  },
+  {
+    "time": 252720.0,
+    "temperature_newyorkcity": -3.54,
+    "temperature_mexicocity": 5.98
+  },
+  {
+    "time": 252979.19999999998,
+    "temperature_newyorkcity": -3.6,
+    "temperature_mexicocity": 5.91
+  },
+  {
+    "time": 253238.4,
+    "temperature_newyorkcity": -3.67,
+    "temperature_mexicocity": 5.83
+  },
+  {
+    "time": 253497.59999999998,
+    "temperature_newyorkcity": -3.73,
+    "temperature_mexicocity": 5.76
+  },
+  {
+    "time": 253756.8,
+    "temperature_newyorkcity": -3.79,
+    "temperature_mexicocity": 5.7
+  },
+  {
+    "time": 254016.0,
+    "temperature_newyorkcity": -3.85,
+    "temperature_mexicocity": 5.63
+  },
+  {
+    "time": 254275.19999999998,
+    "temperature_newyorkcity": -3.91,
+    "temperature_mexicocity": 5.57
+  },
+  {
+    "time": 254534.4,
+    "temperature_newyorkcity": -3.97,
+    "temperature_mexicocity": 5.51
+  },
+  {
+    "time": 254793.59999999998,
+    "temperature_newyorkcity": -4.03,
+    "temperature_mexicocity": 5.46
+  },
+  {
+    "time": 255052.8,
+    "temperature_newyorkcity": -4.08,
+    "temperature_mexicocity": 5.41
+  },
+  {
+    "time": 255312.0,
+    "temperature_newyorkcity": -4.14,
+    "temperature_mexicocity": 5.36
+  },
+  {
+    "time": 255571.19999999998,
+    "temperature_newyorkcity": -4.19,
+    "temperature_mexicocity": 5.31
+  },
+  {
+    "time": 255830.4,
+    "temperature_newyorkcity": -4.24,
+    "temperature_mexicocity": 5.27
+  },
+  {
+    "time": 256089.59999999998,
+    "temperature_newyorkcity": -4.29,
+    "temperature_mexicocity": 5.23
+  },
+  {
+    "time": 256348.8,
+    "temperature_newyorkcity": -4.34,
+    "temperature_mexicocity": 5.19
+  },
+  {
+    "time": 256608.0,
+    "temperature_newyorkcity": -4.38,
+    "temperature_mexicocity": 5.16
+  },
+  {
+    "time": 256867.19999999998,
+    "temperature_newyorkcity": -4.43,
+    "temperature_mexicocity": 5.13
+  },
+  {
+    "time": 257126.4,
+    "temperature_newyorkcity": -4.47,
+    "temperature_mexicocity": 5.1
+  },
+  {
+    "time": 257385.59999999998,
+    "temperature_newyorkcity": -4.51,
+    "temperature_mexicocity": 5.08
+  },
+  {
+    "time": 257644.8,
+    "temperature_newyorkcity": -4.55,
+    "temperature_mexicocity": 5.06
+  },
+  {
+    "time": 257904.0,
+    "temperature_newyorkcity": -4.59,
+    "temperature_mexicocity": 5.04
+  },
+  {
+    "time": 258163.19999999998,
+    "temperature_newyorkcity": -4.63,
+    "temperature_mexicocity": 5.03
+  },
+  {
+    "time": 258422.4,
+    "temperature_newyorkcity": -4.66,
+    "temperature_mexicocity": 5.01
+  },
+  {
+    "time": 258681.59999999998,
+    "temperature_newyorkcity": -4.69,
+    "temperature_mexicocity": 5.01
+  },
+  {
+    "time": 258940.8,
+    "temperature_newyorkcity": -4.73,
+    "temperature_mexicocity": 5.0
+  }
+]
